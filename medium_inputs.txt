@@ -1,0 +1,500 @@
+Sample 1
+Label: 0
+Word count: 97
+Text: This movie reminds me of Harry Potter - not the style but the marketing strategy. There may be part 2 , part three...until one day the product life cycle finishs, of course on the condition that the part one has a commercial success. so many things seems to be hidden and thus the story looks quite incomplete. the action design is boring. set design is ok but not fine. perhaps Edison Chen would be a big star one day. He really looks charming even on big screen. The most impressive is still Anthony Wong. 4/10
+--------------------------------------------------------------------------------
+Sample 2
+Label: 0
+Word count: 115
+Text: I watched it with my mom and we were like...  What the hell? We didn't get it at all. I may have this wrong, but a chair had something to do with the death of this woman's father. That movie was terrible! This is not a movie for those who love a good suspense movie. Bad suspense movie! *shakes cane at movie* I'm never seeing it again. And I'm a big fan of lifetime movies, too! They kinda need to quit trying to make movies outta books. It's driving me crazy!!!  And Whit was butt-ugly and yet, she loves him more than Hugh, who was a TINY bit nicer-looking.  My rating: 1/10
+--------------------------------------------------------------------------------
+Sample 3
+Label: 0
+Word count: 112
+Text: Poor second-string feature from Universal Pictures about a mama's boy movie actor doing criminal investigation work for the military, fending off the advances of the brash young woman he's been assigned to romance. Robert Montgomery directed and stars in this adaptation of the short story "Come Be My Love", and his acting performances of this era are unrelievedly lazy. The plot is sappy, predictable stuff, and writer Robert Carson has given all the really funny lines (as usual for films of this period) to the feisty black maid. It's always nice to see Ann Blyth and Jane Cowl in support, but they can't do much with this hokey material. * from ****
+--------------------------------------------------------------------------------
+Sample 4
+Label: 0
+Word count: 65
+Text: I'm normally a fan of Mel Gibson, but in this case he did a movie with a poor script. The acting for the most part really wasn't that bad, but the story was just pointless with flaws and boring. I thought I would like the movie a little but I didn't like it at all actually. I give it a 1 1/2 out of 5!
+--------------------------------------------------------------------------------
+Sample 5
+Label: 1
+Word count: 111
+Text: A bigoted soldier kills a man for being Jewish and tries to pin it on a fellow soldier. Not as good as the novel it was based on ("The Brick Foxhole") in which it was a gay man who was killed...but Hollywood wouldn't touch that in 1947. That said, it's still a very good film. The anti-Semitism is handled very well, but it's hammered into the audience that bigotry is bad...well duh! But this was 1947. The picture is well-acted by the entire cast (especially Robert Young and Robert Ryan) and the tone is very dark...as it should be. Very atmospheric too. A deserved big hit in its day...well worth seeing.
+--------------------------------------------------------------------------------
+Sample 6
+Label: 0
+Word count: 74
+Text: G&M started a the odd couple downstairs in Man About the House and went on to amusing the nation in their own sitcom.  What was the typical small-scale personal charm of the couples chemistry on the small screen, G&M's transferral to the big screen was as appalling as genuis's Morcombe and Wise, and countless fine TV shows.  Unfunny. Unsatisfying and featuring an ill Yootha Joyce who died before the film was released.
+--------------------------------------------------------------------------------
+Sample 7
+Label: 0
+Word count: 79
+Text: As Joe Bob Briggs would say, this movie relies a lot on the actresses' talents rather than their talent. This early 1990's show-the-babes-in-bikinis-fest has very little to redeem it, other than showing beautiful women nearly naked. Joe Estevez, Martin Sheen's little brother, proves once again that his movie career will be nowhere near what his brother's career is.  Avoid this one unless you like watching beautiful women in skimpy clothing. It's about the only thing that redeems it.
+--------------------------------------------------------------------------------
+Sample 8
+Label: 1
+Word count: 89
+Text: I enjoyed Still Crazy more than any film I have seen in years. A successful band from the 70's decide to give it another try. They start by playing some gigs in some seedy European venues, with hilarious results. The music is fantastic, the script and acting are terrific. The characters are spot on, especially the lead singer with the high heavy metal voice, makeup and personality problems. The concert at the end was unreal. Go and see it, preferably in a cinema with a good sound system :)
+--------------------------------------------------------------------------------
+Sample 9
+Label: 0
+Word count: 78
+Text: I should have figured that any movie with the Poltergeist lady in it isn't going to be good. It actually starts out okay, but during the first murder scene you find out that the movie you're watching is a movie inside of a movie. There's people sitting in a movie theatre watching that movie. One girl in the audience is so annoying that I would have turned around and strangled her. A bit strange, but far from good.
+--------------------------------------------------------------------------------
+Sample 10
+Label: 1
+Word count: 116
+Text: Every time I watch this movie I am more impressed by the whole production. I have come to the conclusion that it is the best romantic comedy ever made. Everyone involved is perfect; script, acting, direction, sets and editing. Whilst James Stewart can always be relied upon for a good performance, and the supporting cast are magnificent, it is Margaret Sullavan who reveals what an underrated actress she was. Her tragic personal life give poignancy to her qualities as a performer where comedy acting skills are not easy to achieve. Lubitsch managed to get the best and he obviously gave his best. Watch for the number of scenes which were done on one take - breathtaking.
+--------------------------------------------------------------------------------
+Sample 11
+Label: 0
+Word count: 110
+Text: Sugar &Spice is one of the worst movies of 2001. The film tries to cross Heathers and Bring It On and fails . When I saw last January I was so disgusted by the film that I walked and talked on my cell phone to my girlfriend for the last half hour of the movie. I've heard that the DVD has a director's cut maybe I'll check it out, but this PG-13 trash movie is s*** and the worst kind of s***. Maybe if the film had some T&A that would've have made it okay. But the gags are lame and the acting is horrible. Worse than a Troma film.
+--------------------------------------------------------------------------------
+Sample 12
+Label: 0
+Word count: 83
+Text: There are interesting pieces here of and about Bruce Weber's likes and dislikes. Maybe if a professional editor had put it together for Biography, I would have felt more satisfied. Instead, I spent $8 at a film festival on it. For an autobiography, almost nothing is revealed about Bruce Weber, other than he likes to look at photographs, shoot interesting people, especially beautiful teenage boys, and listen to jazz. The director of "Crumb" would have made a much more interesting and cohesive film.
+--------------------------------------------------------------------------------
+Sample 13
+Label: 1
+Word count: 79
+Text: This movie was a classic. I would have to say that this movie caught the best of a working man who learns from his mistakes. if we could all get along and learn the way everyone in this movie did. It had an important part of showing how family is an important part of life, and how pride can cause you to lose something important in life if we can not find a "BIG THROAT" and swallow are pride.
+--------------------------------------------------------------------------------
+Sample 14
+Label: 1
+Word count: 102
+Text: This is screamingly funny (well, except when Bruce is in the hospital scene, which is a little sad).   Ted Raimi and Stacy Keach are both excellent and worth watching.  Sure, it's not a big budget-suit controlled blockbuster, but it's everything it promises to be and more- and BTW- the women are wonderful in their parts, though I don't know them from other movies, I'd welcome seeing them again.  The two-brain walking scene is inspired and certainly a showcase for Bruce's outstanding physical comedy- he is one yummy guy!  Thanks Bruce, for your brain, this is your baby!
+--------------------------------------------------------------------------------
+Sample 15
+Label: 1
+Word count: 79
+Text: This story takes place in Wisconsin. I was half heartedly watching my tape when I heard the name Appleton. I wasn't sure where it was taking place until I heard them say Green Bay & then I figured it was Wisconsin. Watching further confirmed it.  Anxiously awaiting the outcome I could really feel Corrine's frustration. I did not know it was based on fact until the end. It left me glad but sad and wanting to know more.
+--------------------------------------------------------------------------------
+Sample 16
+Label: 0
+Word count: 107
+Text: Apart from the fact that this film was made ( I suppose it seemed a good idea at the time considering BOTTOM was so popular ) the one thing that puzzled me about GUEST HOUSE PARADISO was what happened to the lighting ? There is absolutely no artificial lighting used in this film whatsoever , and I watched it on network TV so it wasn`t a case of watching a dodgy tape. In fact the film was shot so darkly it was impossible to see what the hell was going on . But if the dialogue was anything to go by that`s maybe not a bad thing
+--------------------------------------------------------------------------------
+Sample 17
+Label: 1
+Word count: 109
+Text: This movie is the Latino Godfather. An unlikely mobster bridges the gap to some unlikely alliances and forms an empire. I enjoyed the action and gunfights along with the brash acting and colorful characters. This movie is no Oscar winner, but definitely entertaining. Hey, who needs an Oscar anyway?   Chapa has got some balls to direct& act ( I think he produced it too?) this movie. Reminds me of another filmmaker who likes to do it all, Robert Rodrigez. Keep it up, is there a sequel in the works? There are a bunch of strings that need to be tied. Son comes back and avenges dads death?
+--------------------------------------------------------------------------------
+Sample 18
+Label: 0
+Word count: 83
+Text: This film is really a big piece of trash trying to make itself look like a Hollywood production.Poor story outline(stupid robot story)...ultra bad acting by untalented pop idols...and they are trying to"FIGHT"!!!My goodness...those miserable actors uses wires to make them look like they are "good fighters"...:(and I hate that arrogant Edison Chen...the worst actor I have ever seen!!!I will never touch his movies again.AVOID this movie at all costs!!!I wanted to give it a negative value out of ten...not even worth a 0/10.
+--------------------------------------------------------------------------------
+Sample 19
+Label: 0
+Word count: 111
+Text: I worked on this atrocity ten years ago. Luckily for me, no one knows it because I didn't make the final cut. And when I saw the movie in the theaters, I was glad! My agents were driven nuts by the (apparently first-time) filmmakers, rewriting the script daily and changing their arrangements with the agencies just as often. They later told me that, once back in California (we shot in Atlanta), these "professionals" had 4 1/2 hours worth of footage! Even edited down to 90 minutes, it's at least twice as long as it needs to be. I found Hulk Hogan surprisingly charming, but otherwise -- what a waste of film!
+--------------------------------------------------------------------------------
+Sample 20
+Label: 1
+Word count: 86
+Text: I liked the film. Some of the action scenes were very interesting, tense and well done. I especially liked the opening scene which had a semi truck in it. A very tense action scene that seemed well done.  Some of the transitional scenes were filmed in interesting ways such as time lapse photography, unusual colors, or interesting angles. Also the film is funny is several parts. I also liked how the evil guy was portrayed too. I'd give the film an 8 out of 10.
+--------------------------------------------------------------------------------
+Sample 21
+Label: 0
+Word count: 119
+Text: In short this movie was awful.  I understand it's a Disney movie, which are generally shallow movies with mediocre plots and bad acting. HOWEVER, i must say this is the worst of all Disney movies, with bad acting, LOTS OF IRRITATING SHRIEKING TEEN GIRLS(my god), and an extremely unrealistic plot. Even as a 12 year old there is no way i would have liked this movie. The only way this movie could have been any worse is if they attempted to put it in theaters or tried to sell it in a local video store.   Do yourself a favor and change the channel before watching this, no matter how bored you are on a Sunday afternoon.
+--------------------------------------------------------------------------------
+Sample 22
+Label: 0
+Word count: 101
+Text: There's a good story well hidden and never really used!   The film is short and overly dependent on action and thematic photography; somehow, character and story development have been forgotten. What is left is muddled and superficial.  Turn off your brain and watchyou will probably find that the time goes quickly enough, but unless you are the sort of person that finds soaps deep and meaningful, you are going to get no real satisfaction from this film.  Watch only if you have nothing better to do and then only if someone else pays for the video rental.
+--------------------------------------------------------------------------------
+Sample 23
+Label: 0
+Word count: 106
+Text: I borrowed this movie from library think it might be delightful. How wrong am I!  It is such a bad movie that I have to write something about it. Mira Sorvino is SO bad in the movie, it is very painful to watch the scene with her. She is a pretty girl, but in this movie, She is not seductive at all, but I will have to witness her awkward attempt to seduce almost all the other major characters. It is so ridiculous.  And the dialog of the film is so pretentious, and lack the humorous fact that make then acceptable.  Totally failure.
+--------------------------------------------------------------------------------
+Sample 24
+Label: 0
+Word count: 120
+Text: It's been said that some directors make small budget pictures look like blockbusters. Albert Pyun makes small budget pictures look like high school A/V project films. This film was pretty much lacking in all departments. Practically every scene drags on excessively, the "experimental" lighting and camera work is terrible, Rob Lowe apparently equated being scruffy with acting, and the poor drab Euro-pop numbers stop the movie to a dead halt. On the plus side, Burt Reynolds does a pretty good job with what he's given (which isn't much), Mario Van Peebles is surprisingly decent and Ice-T puts in another of a long recent string of B-movie gangsters. Not Pyun's worst work (Urban Menace), but certainly not his best (Mean Guns).
+--------------------------------------------------------------------------------
+Sample 25
+Label: 1
+Word count: 109
+Text: This is one of those movies - like Dave, American Dreamer and Local Hero - that holds a viewer's interest time and again. Lightweight movies seldom win Oscars, but whoever did the casting for Soapdish deserves one. Even after one has seen the movie and knows what is coming, it's still enjoyable to watch how the various plot facets develop. True, all the drama is melodrama; but that's entirely fitting for a movie with a soap opera background. My favorite line comes from Whoopi Goldberg: "Now why can't I write sh*t like that?" I think it's unfortunate that the TV and website censors insist on all this unnecessary sanitation.
+--------------------------------------------------------------------------------
+Sample 26
+Label: 1
+Word count: 97
+Text: I recently purchased this on DVD as I hadn't heard of it and like robert carlyle.  Obviously this movie is not going to have Hollywood blockbuster special effects,in saying that though the special effects were decent enough,and the acting was fine also.  I found the movie to be enjoyable and do not regret buying it at all,at almost 2 hours long it is just the right length for this type of movie.  Do not expect thrilling explosive action from beginning to end though,it is a fairly well balanced movie with a decent enough storyline!
+--------------------------------------------------------------------------------
+Sample 27
+Label: 0
+Word count: 50
+Text: Leonard Maltin compared this film to a Mel Brooks comedy. He was far too kind to Ms. Rivers, and far too cruel to Mr. Brooks. Not even the raunchiest Mel Brooks films are this tasteless, and at least they're genuinely funny. This picture deserves a place on the hundred-worst list.
+--------------------------------------------------------------------------------
+Sample 28
+Label: 1
+Word count: 118
+Text: This movie has a lot to recommend it. The paintings, the music, and David Hewlett's naked butt are all gorgeous! The plot, a story of redemption, forgiveness, and courage in the face of adversity is also very interesting and touching -- and it's not predictable, which is saying quite a lot about a movie in this day and age. But, the acting is mediocre, the direction is confusing, and the script is just odd. It often felt like it was trying to be a parody, but I never figured out what it was trying to be parody *of*. And if it's not a parody, well, it remains a movie with great potential that it didn't live up to.
+--------------------------------------------------------------------------------
+Sample 29
+Label: 1
+Word count: 66
+Text: I think this film has much to recommend it, particularly an especially sinister performance by David Morse and a more than passable performance by the always worth watching Mr. Foxx. Although there are a lot of holes in the plot and the motivation is very, very hard to follow in some cases, all in all, it makes for a nice time in front of the tube.
+--------------------------------------------------------------------------------
+Sample 30
+Label: 1
+Word count: 50
+Text: I have seen this movie more than several times, on TV. I ALWAYS watch it again...NEVER turning the channel. This movie is full of chilling surprises, and absolutely edge-of-your-seat suspenseful, without being overbearing or stupid. Helen Hunt's talent is magnificently shown in this movie! I recommend this movie to anyone!!!
+--------------------------------------------------------------------------------
+Sample 31
+Label: 1
+Word count: 116
+Text: Everyone in the cast, from Sugiyama to Aoki and Toyoko is someone we know in everyday life. They were so natural, and Sugiyama's transformation is incredibly believable. The score is so moving, it brought me to tears. The choreography was beautiful without seeming athletic. Mai's graceful dancing and charm gave me goosebumps. Tamako is such a wonderfully delightful character. You can almost see the charmed schoolgirl in her face as she reminisces about seeing "The King and I". Aoki's character is both hilarious and pitiful. Masako is so overwhelmingly natural as the bewildered wife, you almost want to hug her to reassure her that everything will be all right.  This film is truly a keeper.
+--------------------------------------------------------------------------------
+Sample 32
+Label: 1
+Word count: 113
+Text: Its my favourite film because there's so much going on that you don't see at first and so many things that make you wonder "Did Kieslowski mean that or is it in my head?" For instance - is the judge meant to be God or some supreme being ?  Also Irene Jacob as in The Double Life Of Veronique is outstanding, there may be a few superficially prettier actresses but none who manage to convey beauty of spirit with physical beauty the way she does.  Tritingnant also is magnificent without really saying much and the things he does say are excellent such as his answer to Valentine . . . "Be".
+--------------------------------------------------------------------------------
+Sample 33
+Label: 1
+Word count: 112
+Text: Another one that slipped by the radar of most anyone. This little B produced gem is so full of new ideas in an old genre and so absolutely refreshing and inventive, that a dreadful feeling about the lack of cojones in today's cinema slowly overtakes your body. The final set piece is so innovative in its setting and style that it prefigures everyone from Tarantino to John Woo. Oh, and if you think "dying lines" are all cliche, wait for the dying line of FF. A piece of dialogue that could have torn you with laughter will take your heart. A true pleasure. Seek it and see it. You won't be sorry.
+--------------------------------------------------------------------------------
+Sample 34
+Label: 0
+Word count: 71
+Text: Unfortunately, this film is typical of the watering down of a good film by numerous sequels. Universal made several serial monster films in the 1940s, which were pale imitations of the original. The intelligent Egyptologist Imhotep has been replaced by a leg-dragging Frankenstein in mummy wrappings, who exhibits no signs of intelligent life. This film is entertaining in spots but if you have seen The Mummy (1932), you will be disappointed.
+--------------------------------------------------------------------------------
+Sample 35
+Label: 0
+Word count: 86
+Text: Broad enough for you? Wait till you see this heavy handed  adaption of a little collegiate one act. What is shocking and wild in  college rarely holds up over time, and this is proof. To take on the  Catholic Church with broadside humor just isn't shocking or  interesting or funny, it's kind of boring. The performers are all  game, giving all they've got, but it's basically a play that doesn't  open up to film well. Not a lot of fun.
+--------------------------------------------------------------------------------
+Sample 36
+Label: 1
+Word count: 101
+Text: i expected something different:more passion,drama...Again another failed attempt of originality.i'm sorry to say that the film falls into the old cliché of 'cheesiness'.15 year old teens may appreciate it though.The acting was not very convincing and the lines common,lacking any wit.Still, the soundtrack was good and well adapted.I can't say that this movie is a total flop,because people do watch it but it didn't meet the public's expectations and sunk into mediocrity.So,to conclude,the production keeps you in front of the TV for almost an hour and a half,which is an appreciable thing.Thus,I guess its worth seeing if you don't get annoyed
+--------------------------------------------------------------------------------
+Sample 37
+Label: 1
+Word count: 53
+Text: This movie is just plain silly. Almost every scene has some bit of humor: running gags, slapstick, and great jokes. The acting isn't that great, and the plot is cliche, but the jokes more than make up for that. If you have a chance to see this movie, I recommend that you do.
+--------------------------------------------------------------------------------
+Sample 38
+Label: 0
+Word count: 96
+Text: I pity people calling kamal hassan 'ulaganaayakan' maybe for them ulagam is tollywood ! comeon guys..this movie is a thriller without thrill..  come out of your ulagam and just watch some high class thrillers like The Usual Suspects or even The Silence of the Lambs.  technically good but style over substance kamal doesn't look like a police officer, there is no thrill whatsoever dragging and boring till end you might be saving 3 valuable hrs of your life if u skip watching this movie.  kamal at his best is the best in tollywood
+--------------------------------------------------------------------------------
+Sample 39
+Label: 0
+Word count: 111
+Text: I must first mention that as a group of mates, we often find entertainment in wacthing films which are known to be terrible for comedy value, hence our rental of Camp Blood.  Camp Blood was the first film which we'd rented that had been shot on what looks to be a camcorder, and was so rubbish it wans't even funny.  The DVD was returned and a refund was demanded, with the added suggestion some sort of quality control is implemented to prevent such utter rubbish being stocked.  Don't do what I did, and let the curiosity get the better of you, it's so bad it's not even funny.
+--------------------------------------------------------------------------------
+Sample 40
+Label: 0
+Word count: 87
+Text: do not be suckered into renting this movie. It has nothing to do with an escape from death row, despite the (english) title. I can't think of a single good thing to say about the movie. Poor acting, poor editing, poor directing... laughable "plot", and the sound/music was so irritating, it's a wonder this movie doesn't come with a warning label. The only possible way to sit through this movie and enjoy it is for it's historical cheesiness quality. They just don't make films this bad anymore.
+--------------------------------------------------------------------------------
+Sample 41
+Label: 1
+Word count: 101
+Text: Probably the finest fantasy film ever made. Sumptuous colour, spectacular sets, incredible, spot-on Miklos Rosza musical score that is perfect for each scene and mood. Acting is superb as well in what could have been stiff and pretentious in lesser hands, but here the poetic dialog is deftly, sensitively spoken (the humour is subtle and delightful as well).  Doubtless Spielberg and Lucas were enthralled by this one. Along with "The Four Feathers" (1939), one of the two finest motion pictures released by Alexander Korda and London Films---and one of the finest motion pictures ever made.  A true, compelling classic!
+--------------------------------------------------------------------------------
+Sample 42
+Label: 1
+Word count: 84
+Text: Wizards of the Lost Kingdom is a movie about a young prince (Simon) who is banished from his kingdom due to his father (the king) being killed by the cliche "evil adviser". This movie's about Simon's adventures. The special effects, plot, acting, and generally everything about this movie is BAD. However, it's so bad that it's funny. You will keep watching this movie simply because it's so bad it's funny, and, like the other reviewer of the movie said, it's so bad it's good.
+--------------------------------------------------------------------------------
+Sample 43
+Label: 1
+Word count: 118
+Text: This film was on last week and although at that time of the day (around 6pm) the quality of the movies is almost never good (at least here on Mexican TV), I couldn't switch the TV off. The story about Madelene Moore really touches you. She doesn't come across as a very sympathetic character at first, but seeing the whole film, you just want her so succeed. This film really leaves you thinking. And i think that basically due to the great acting of Brooke Johnson. I had never heard of her before nor knowingly seen her in another film, but this was great great acting. Compliments to Brooke. I hope to see her in another film soon.
+--------------------------------------------------------------------------------
+Sample 44
+Label: 1
+Word count: 117
+Text: I know Gerrit. He presently lives in the U.S. This film is based on events in the lives of both Gerrit and Celeste Wolfaardt. It's a remarkable story. It inspired me to read "Cry, Beloved Country." The film is well-produced. The music is beautiful.  The story is told in flashbacks. You learn the stories of a white racist South African (Gerrit) and a black South African (Moses). Their lives intersect violently. The ending is not typical Hollywood -- it's unusually realistic and ends on a note that encourages you to think about the characters and the themes.  Be sure to watch through the credits -- you'll get to see footage of Gerrit in real life.
+--------------------------------------------------------------------------------
+Sample 45
+Label: 1
+Word count: 80
+Text: Manna From Heaven is a light comedy that uses exaggeration of human foibles to entertain the audience. Throughout the film there is the expectation that goodness will surface in each situation. The result is that the movie goer finds himself/herself sitting with this silly grin on his/her face, peace in his/her heart, and high expectations for human kind. Watching this movie was a most pleasant experience. (I would venture to say uplifting experience, but some would say that sounds corny!!)
+--------------------------------------------------------------------------------
+Sample 46
+Label: 1
+Word count: 74
+Text: This is an entertaining look at the Gospel as presented by Johnny Cash (adorned in black, of course) who sings a lot and narrates a bit also. If you like Johnny Cash, this film is quite enjoyable. Also note the blonde depiction of Jesus in this work...just for fun, try to think of five Jewish men who have blonde hair...? Anyway, its a fun presentation of the greatest and most important story of all.
+--------------------------------------------------------------------------------
+Sample 47
+Label: 1
+Word count: 83
+Text: Clara Bow (Hula Calhoun) is daughter of plantation owner Albert Gran (Bill Calhoun), who is mainly interested in playing cards and boozing with friends. She's interested in riding in the countryside until engineer Clive Brook (Anthony Haldane) shows up to build a dam. One of her father's friends Arlette Marchal (Mrs. Bane) then competes for his attentions. His wife Maude Truax (Margaret Haldane) shows up for the contrived finale.  Lots of 'pre-code' elements like nude bathing.  Wonderful location shooting in Hawaii.
+--------------------------------------------------------------------------------
+Sample 48
+Label: 1
+Word count: 84
+Text: Normally the best way to annoy me in a film is to include some reference to Orson Welles. But here is a sci-fi comedy quoting the War of the Worlds broadcast.... and it is gold! The very concept of a small bunch of diminutive,aggressive and stupid aliens being mistaken as kids in Halloween dress is magnificent. Don't be fooled by the notion that because it seems like a kids' movie it is unsophisticated - it isn't, there's a lot of hidden treasure... A gem!
+--------------------------------------------------------------------------------
+Sample 49
+Label: 1
+Word count: 67
+Text: This was a fine example of how an interesting film can be made without using big stars and big effects. Just tell a true story about the struggles of two African American women over a turbulent century.  This movie challenges us all to look at our own personal prejudices and see that people are people, not white, black, etc.  Good movie with a good message.
+--------------------------------------------------------------------------------
+Sample 50
+Label: 0
+Word count: 108
+Text: I had high hopes for this movie. The theater monologue is great and Nic Balthazar is a very interesting man, with a lot of experience and knowledge when it comes to movies.   I am a fan of a lot of Belgian movies, but this movie is bad. It's completely unbelievable that actors who are 34 are suddenly playing the roles of teenagers. The "linguistic games" were hideous and over the top. Nothing about the film seemed real to me. The ending was way too deus ex machina for me.  I am very disappointed and think I wasted an hour and a half of my life.
+--------------------------------------------------------------------------------
+Sample 51
+Label: 1
+Word count: 115
+Text: This is an extremely-powerful based-on-a-true story film that can be infuriating to watch. I say that because how brutal a hounding press can be to people, in this case an innocent Australian couple charged with killing their baby.  Meryl Streep received a lot of recognition for her performance when this film came out but I thought Sam Neill was just as good. Let's just say they both were excellent but the role was little harder for Streep because she had to learn an Australian accent. (She learned it so well I had trouble understanding her in parts.)  Without giving anything away, all I can say is this movie will wear you out emotionally.
+--------------------------------------------------------------------------------
+Sample 52
+Label: 0
+Word count: 114
+Text: As a fan of the old series I must say that this is at best a parody of a much beloved series. First the old series would at least attempt to follow some military structure. I know in this P.C. world it is not the thing to do but hey don't turn it into the care bears. In the old series Beachead was a hardspoken soldier, now he is a teenage mutant turtle. Another thing is the flying tank, ok it flies out of the cobra base and bounces off the copter and they are both ok???? Lets face it if the next one is not better this could spell the end of G.I.joe.
+--------------------------------------------------------------------------------
+Sample 53
+Label: 1
+Word count: 68
+Text: Eisenstein created the Russian Montage Theory, and this film is his finest example. It took years before someone could utilize his ideas and make them work (The Limey, 1999). Nonetheless, the baby carriage scene really demonstrates the discombobulated nature of RMT. Granted, like most movies, it gets long in some parts, the beauty of the film is amazing. One of the best silent films I have ever seen.
+--------------------------------------------------------------------------------
+Sample 54
+Label: 1
+Word count: 105
+Text: The Beloved Rogue is a wonderful period piece. It portrays 145th century Paris in grand Hollywood fashion, yet offering a bleaker side to existence there as it would be experienced by the poor. And the snow. It's constantly swirling about, adding to the severity of the setting -- brilliant! The setting is enhanced by the odd cast of characters, including beggars, cripples and dwarfs.  A brilliant performance is turned in by John Barrymore, outdone only by the magnificent Conrad Veidt, who portrays a degenerate, dissolute Louis XI to perfection. And yes, Veidt picks his nose on purpose, pushing his portrayal to wonderfully wry limits.
+--------------------------------------------------------------------------------
+Sample 55
+Label: 1
+Word count: 54
+Text: The plot is tight. The acting is flawless. The directing, script, scenery, casting are all well done. I watch this movie frequently, though I don't know what it is about the whole thing that grabs me. See it and drop me a line if you can figure out why I like it so much.
+--------------------------------------------------------------------------------
+Sample 56
+Label: 1
+Word count: 91
+Text: Well it might be a kid's movie...perhaps but i'm not gonna let my kids from 9 watch it!,so the one who say it is a kid movie hmm?!,it is teenager movie i agree..,so but back to the movie it is about a boy who can lie very good..,so good that at the end nobody nows truth or lie.Anyway it is a nice movie to see nice screen play i vote a 8 for screen play and story ...i think they writers mend a litlle lesson whit it...''the truth is never overated''.
+--------------------------------------------------------------------------------
+Sample 57
+Label: 1
+Word count: 97
+Text: This is without a doubt one of Neil Simon's best plays turned movies. It's full of great characters, and memorable dialog. Johnathan Silverman makes a great screen version of young Eugene(he was played by Matthew Broderick on stage).This is the first of Simon's autobiographical trilogy, its followed by the wonderful "Biloxi Blues", and closes with the TV movie "Broadway Bound". If I had to say the movie has any flaws it would maybe be that characters sometimes usually speak in obvious dialog, but that's alright because it's great dialog. Rent this little gem, you won't be sorry!
+--------------------------------------------------------------------------------
+Sample 58
+Label: 1
+Word count: 117
+Text: Great horror comedy from Michael Davis.Iwas laughing so hard i almost peed! Great acting from Eric Jungman as the good guy who saves the day & great performance by the Jack Black-esquire like performance from Justin Urich. He was just divine in this film. This guy deserves to be a big star. Also,Aimee Brooks was good in the film as well as the girl in danger along with the guys from a killer reminiscent of Jeepers Creepers. The gore to was given in copious amounts & i loved it.I just hope they release a not rated version. Great low-budget Horror Comedy. The dead cat in the hotel sex scene is just gruesomely funny! ***** out of *****
+--------------------------------------------------------------------------------
+Sample 59
+Label: 0
+Word count: 113
+Text: I have vague memories of this movie being funny.  Having seen it again either I have changed or I was thinking about a another film altogether.  It seems as if we are supposed to be sympathetic to Jackie Mason's character however nothing in the movie actually engenders that emotion. Its notable that he is really the only person accorded tender dialogue with loved ones. No-one else's character is allowed to rise to the status of even vaguely human.  I don't even like golf but as the film went on I found myself really rooting for Robart Stack and the club guys, really hoping they would repel Mason and Chevy Chase.
+--------------------------------------------------------------------------------
+Sample 60
+Label: 1
+Word count: 110
+Text: This blaxploitation classic about a kung fu mama who travels to Hong Kong to avenge her brother's death offers everything you learned to expect from the genre. Playmate Jeannie Bell (with a giant afro) really kicks ass and usually loses her clothes very quickly. If you don't take it all too seriously, the movie is great fun to watch. Stan Shaw gives a solid performance, Jeannie Bell is a little less convincing. Pam Grier she ain't.  This is where Quentin Tarantino got his idea for the light switch scene in "Jackie Brown" from.  The soundtrack by Don Julian is a gem and is frequently used in rap songs.
+--------------------------------------------------------------------------------
+Sample 61
+Label: 1
+Word count: 62
+Text: I thought that the love letter was a pretty good movie. There were certain things that could have made it better. But Kate Capshaw is absolutely beautiful, and she showed it in this movie. I wish that there could have been a few more revealing scenes of her, but it was still a very good movie. It was very fun to watch!
+--------------------------------------------------------------------------------
+Sample 62
+Label: 0
+Word count: 80
+Text: As a true Elvis fan, this movie is a total embarrasment and the script is a disaster. The movie opens with the beautiful son "Stay Away" and the scenery of the Grand Canyon gives the viewer hope of something special. Elvis gets in the picture and his talent is wasted big time, especially on the rest of the featured songs. I sat through this movie twice, just to make sure it is a piece of junk!!! 1 out of 10!!!
+--------------------------------------------------------------------------------
+Sample 63
+Label: 0
+Word count: 105
+Text: The film has no connection with the real life in Bosnia in those days. Should be more realistic and shows the viewer real traumas that were happening to common people during the war. Please see some films of Yugoslav authors (Emir Kusturica, Ljubisa Samardzic,...e.g. Bure baruta( A barrel of powder), Tito i ja (Tito and me), Lepa sela lepo gore (Beautiful Villages burn Beautiful), etc... Just this is the real way to know about so called Bosnian problem. Hollywood is definitive not th right address to make films about the Balcan peninsula. Maybe Vietnam, WW II,... but not of the Slavs living in former Yugoslavia.
+--------------------------------------------------------------------------------
+Sample 64
+Label: 0
+Word count: 75
+Text: We brought this film as a joke for a friend, and could of been our worst joke to play. The film is barely watchable, and the acting is dire. The worst child actor ever used and Hasslehoff giving a substandard performance. The plot is disgraceful and at points we was so bored we was wondering what the hell was going on. It tries to be gruesome in places but is just laughable.  Just terrible
+--------------------------------------------------------------------------------
+Sample 65
+Label: 1
+Word count: 90
+Text: BASEketball is indeed a really funny movie. David Zucker manages to make us all laugh our heads off again, in a really silly, but many times smart, comedy.  The 2 creators of South Park, the main actors in this film, play very good, surprisingly good actually, but this is the first time i see them as actors. The movie oftenly reminded me of South Park - one of my fav shows.  It's a really good and funny film, so don't miss it.  Vote: 7.5 out of 10.
+--------------------------------------------------------------------------------
+Sample 66
+Label: 0
+Word count: 116
+Text: In addition to the fact that this is just an abysmally made film (imagine giving a camcorder to the average high school drama club) the people who think that there is anything "real" about this legend need to grow up. This is the 21st century. Guess what: ghosts don't exist. Most people learn that from their mother when they're about 5 years old. You guys seriously need to grow up.  The fact that a fraud was perpetrated nearly 2 centuries ago does not make it any less a fraud. The fact that a large number of inbred hillbillies from Tennessee believe it doesn't do it either. Go to college. Or at least finish high school.
+--------------------------------------------------------------------------------
+Sample 67
+Label: 1
+Word count: 112
+Text: Realistic Master-Piece. thirty years later, the pictures can look a bit old, but actually, it only accurate the 'fist in the face' effect of the movie. I never saw in my whole life a film like this one. First time I saw it, I didn't know if it was a fiction... And It didn't looked like... That movie is a masterpiece that every single person in the world have to see. It's the best ever society critical movie. The ultimate movie that demonstrate that the system is down. And the system has not change a lot, in thirty years. I think this movie would have to be watched as an education piece.
+--------------------------------------------------------------------------------
+Sample 68
+Label: 0
+Word count: 105
+Text: Maybe it is unfair for me to review this movie because I walked out well before the end. That's odd, because I usually like Shakespeare on the screen and I enjoyed Midsummers Night's Dream once, many years ago, when I saw it on the stage.   I think that two things did me in: that squeaky twerp with the Shakespearian name, Calista Flockhart, and Michelle Feiffer sitting in a giant clamshell. Well, I suppose you could say it supposed to be a comedy -- but when the scenery is funny and the actors aren't, I'd say we have a bad movie on our hands....
+--------------------------------------------------------------------------------
+Sample 69
+Label: 1
+Word count: 86
+Text: If you're looking for a not-so-serious mob movie, with a female as the lead, you're in the right place. Pfieffer has acted much better than this. You can see she has matured beyond this picture.  When I first picked this movie up, I expected Pfeiffer was poorly miscast, however, she plays her mob wife role to the hilt. Not a bad performance from Baldwin, either.  If you don't pay attention to the hair, you might enjoy this movie. But don't take it too seriously...
+--------------------------------------------------------------------------------
+Sample 70
+Label: 1
+Word count: 72
+Text: The filmmaker inhaled Andy Goldsworthy's art, his search for closeness with the land and the water, and his sense of proportion -- and so gently, so beautifully breathed it back on to film for the rest of us. "Rivers and Tides" loves Goldsworthy's work and joins it as a visual concert of time and human presence in a flowing world, a world that hides its power in plain sight. See this movie!
+--------------------------------------------------------------------------------
+Sample 71
+Label: 0
+Word count: 118
+Text: Apparently I am swimming against the tide of the glowing comments on this film. I have not seen it since I was 4 or 5 years old but there is one thing I remember distinctly...  The Bunyip was TERRIFYING!!! Nightmare inducing terrifying. With the creepy music and the little girl and kangaroo running/hopping away for their lives...  As a kid I also remember the animated Hobbit... no worries. Watership down? Didn't blink an eye. Dot and the Kangaroo? It still haunts my dreams. And I have several friends the same age who also think it was massively creepy. Maybe we can get a group rate on therapy.  In short: one freaky film for its time.
+--------------------------------------------------------------------------------
+Sample 72
+Label: 1
+Word count: 62
+Text: This movie has everything typical horror movies lack. Although some things are far fetched we are dealing with quality snow man engineers. The only preview i can reveal is that i cant wait for Jackzilla. Dare i say oscar winner. This is a perfect date movie. I advise all men for a nice romantic surprise see this movie with that special person.
+--------------------------------------------------------------------------------
+Sample 73
+Label: 0
+Word count: 109
+Text: I can't believe this movie managed to get such a relatively high rating of 6! It is barely watchable and unbelievably boring, certainly one of the worst films I have seen in a long, long time.  In a no-budget way, it reminded me of Star Wars Episodes I and II for the sheer impression that you are watching a total creative train wreck.  This film should be avoided at all costs. It's one of those "festival films" that only please the pseudo-intellectuals because they are so badly made those people think it makes it "different", therefore good.  Bad film-making is not "different", it's just bad film-making.
+--------------------------------------------------------------------------------
+Sample 74
+Label: 1
+Word count: 116
+Text: I saw this when on The Wonderful World of Disney as a kid, so I didn't recall much of it. As I watched it recently, I sat there thinking, "This is the weirdest thing I've seen".  The 'traveling' scenes look like something caused by an LSD overdose. The animated characters are mostly oddly colored/voiced versions of Jungle Book and Robin Hood characters. Some not-so-Disney things I noticed: kids being threatened at knife point and prostitutes(during the Portobello Road song).  It was very entertaining, though the musical numbers were long and I can see little kids getting bored with them. Also, the subject manner was a bit dark, seeing as it was set during WW2.
+--------------------------------------------------------------------------------
+Sample 75
+Label: 0
+Word count: 108
+Text: From hardly alien sounding lasers, to an elementary school style shuttle crash, "Nightbeast" is better classified as a farcical mix of fake blood and bare chest. The almost pornographic style of the film seems to be a failed attempt to recover from a lack of cohesive or effective story. The acting however is not nearly as beastly, many of the young, aspiring, actors admirably showcase a hidden talent. Particularly Don Leifert and Jamie Zemarel, who shed a well needed shard of light on this otherwise terrible film. Nightbeast would have never shown up on set had he known the terrible movie making talent of this small Maryland town.
+--------------------------------------------------------------------------------
+Sample 76
+Label: 0
+Word count: 51
+Text: I found this early talkie difficult to watch and I'm a Norma Shearer fan! It's not her fault, but the primitive production values of this film would cause any viewer to become bored. 90% of the movie is filmed with "medium shots," and it's very similar to watching a dull play.
+--------------------------------------------------------------------------------
+Sample 77
+Label: 0
+Word count: 72
+Text: This movie is just plain bad. Weak story , weak directing and below average acting. The thing that really irritated me was the blatant advertising - constantly - for a well known internet provider. It is obvious some scenes are written to do just that , advertising. This movie is a slap in the face to anyone who payed money for this.  Do not watch this, it not worth your time.
+--------------------------------------------------------------------------------
+Sample 78
+Label: 1
+Word count: 55
+Text: This is a lot of silliness about a woman from London who marries a tea planter from Ceylon whom she barely knows. It's full of cliches, and the Liz Taylor character is not believable. It has a marvelous set, some exotic location footage. It shows Taylor at the height of her beauty. She looks stunning.
+--------------------------------------------------------------------------------
+Sample 79
+Label: 0
+Word count: 116
+Text: Under no circumstances watch this film. It is terrible for a number of reasons:  No plot No structure No direction No acting to speak of No visual style No tension  In a word - no.  Best thing about it the box and the fact it eventually ends. Who would have thought 85mins could feel so long.  Once again: Under no circumstances watch this film. It is terrible.  No plot No structure No direction No acting to speak of No visual style No tension  In a word - no.  Best thing about it the box and the fact it eventually ends. Who would have thought 85mins could feel so long.
+--------------------------------------------------------------------------------
+Sample 80
+Label: 1
+Word count: 115
+Text: The efforts of a new group of young talent bolstered by Alan Rickman and Emma Thompson, 2 extremely gifted actors, makes for a thrilling and engrossing evening of entertainment. And I might add that Hal Holbrook shines as the Senator. This movie deserves five stars. I give it a ten on your scale. And the ending is PERFECT. I am constantly amazed at the ability of British actors to master our American accents. I was convinced that all the actors were born in Louisiana. And what finer locale for a mystery than New Orleans! The Big Easy, also known as the Crescent City, permeates every scene. As writer and director, Sebastian Gutierrez deserves high praise.
+--------------------------------------------------------------------------------
+Sample 81
+Label: 0
+Word count: 106
+Text: Twin brothers separated at birth (Due to the deaths of their parents) reunite twenty five years later to avenge their parents and take back their million dollar tunnel. Double Impact runs at two hours long and basically adds no real approach to the Corsican Brothers plot and Jean-Claude Van Damme while adequate as the evil twin brother is just embarrassing as the good twin brother. Also the action sequences aren't as exciting this time and Jean-Claude relies more on gunfire then on his martial arts. Also the supporting cast is wasted and at two hours the movie is just plain dull.  * out of 4(Bad)
+--------------------------------------------------------------------------------
+Sample 82
+Label: 1
+Word count: 54
+Text: A lovely little B picture with all the usual Joe Lewis touches.... people ripping up pillows and auras of lurking fear. Also, alas, an ending that comes out of nowhere, because, apparently, the auteur has lost interest in the movie, or perhaps because as a B picture it has to fit into a slot.
+--------------------------------------------------------------------------------
+Sample 83
+Label: 0
+Word count: 116
+Text: I could never stand watching Happy Days after Chachi joined the cast, so I knew I was in trouble when the best scene in this movie featured Scott Baio (a skateboard chase scene!). Jodie Foster in her first "grown-up" role turns in her usual professional performance but that is no excuse for this boring mess. Two hours out of my life that I'll never get back! No noteworthy characters, unbelievable storyline, questionable editing and horrendous cinematography but worst of all, I couldn't have cared less. The story of California teens in the 1970's, where the kids live miserable lives and all their parents are idiots. Don't waste your time watching this ugly excuse for a movie.
+--------------------------------------------------------------------------------
+Sample 84
+Label: 1
+Word count: 88
+Text: John Voight plays the title character in this movie based on author Pat Conroy's (Prince of Tides) autobiography. A fine teacher film, it tells the story of a naive Pat Conroy, a young English teacher whose first assignment is in an elementary school on a rural island. The only white man on the island, he must battle internal and external pressures as he attempts to instill education and values in children who for generations have been systematically denied such things. A solid performance that really makes you think.
+--------------------------------------------------------------------------------
+Sample 85
+Label: 1
+Word count: 81
+Text: As a former Erasmus student I enjoyed this film very much. It was so realistic and funny. It really picked up the spirit that exists among Erasmus students. I hope, many other students will follow this experience, too. However, I wonder if this movie is all that interesting to watch for people with no international experience. But at least one of my friends who has never gone on Erasmus also enjoyed it very much. I give it 9 out of 10.
+--------------------------------------------------------------------------------
+Sample 86
+Label: 0
+Word count: 91
+Text: The storyline seemed fine, the actors seemed fine, the movie should  have been fine. But it sure wasn't - It didn't lead us anywhere, the  scenes are weird. Maybe it was meant to create something new, to make  us think. That atleast it did: Where is the rest of this film? To me it  was waste of money, time, and talent. Someone might want to see this  for curiosity, to see if they can figure it out. Other I personally  wouldn't recommend this to anyone.
+--------------------------------------------------------------------------------
+Sample 87
+Label: 0
+Word count: 101
+Text: Well, i could nt get into the plot, but thats just me maybe. Listless camera-movements at times, nevertheless this movie has got a charming vintage quality.The acting is genuine at times and entertaining with the occasional chase sequence involving scantily clad ladies, which was nice. The climax is confused and disjointed, but still ...err riveting, thanx to Stella Stevens.  The stunts are interesting, specially because of the 70's las vegas backdrop. There are a few jerky hand-held camera-movements at the end, which keep me guessing, for a while. But i don't think I ll b chasing the DVD, just yet.
+--------------------------------------------------------------------------------
+Sample 88
+Label: 0
+Word count: 108
+Text: Disjointed, unclear, bad screenplay, poor photography and direction...all in all very obviously an ill-conceived first effort at commercial film-making by the good people at TBN.  TBN Pictures has had great success in the past by helping to bring "China Cry", the story of Nora Lam, to the big screen. But "The Omega Code" is an unfortunate miscue. As a Christian who supports TBN and a lot of its programming and who loved "China Cry", I still find it impossible to recommend this film to anyone. They do much good with their ministry, but this isn't an example of it. Don't waste your money...go rent "China Cry" instead.
+--------------------------------------------------------------------------------
+Sample 89
+Label: 0
+Word count: 116
+Text: Raising victor Vargas is just a bad film. No amount of denial or ad-dollar supported publicity with change this sad fact.  Maybe Peter Sollett saw he didn't have the money to do the movie he wanted to make and decided to take the easy way out by making a bad film that cynically apes the tenets of current "edgy film-making". Maybe he just doesn't know any better. It's hard to tell.  What's not hard to tell is the result. Except for a few viewers who will intellectualize the bad film-making into an attempt at pseudo-realism, few will enjoy it.  I know I didn't.  Do yourselves a favor and pass on this film.
+--------------------------------------------------------------------------------
+Sample 90
+Label: 1
+Word count: 102
+Text: ...and I'm so disappointed because I can't seem to buy the DVD or VHS of it anywhere.  Its a kind of mix of, Uncle Buck and The Great Outdoors and Molly Ringwald is fabulous as the spoilt teenager. This was made when Molly was still a brunette, just before she hit the big time with Pretty In Pink.  I'd definitely recommend it to anyone who likes a good clean family comedy, with an edge!   If anyone has a copy of this, or knows where I can get one...please leave a message for me - it'll be much appreciated.
+--------------------------------------------------------------------------------
+Sample 91
+Label: 0
+Word count: 88
+Text: I rented this one to see Vanesa Talor one more time. She can act, but doesn't get a chance in this clunker. The opening sequence is an elaborate crane shot of mountain landscapes. Must have come from a stock archive, because the movie is shot direct to videotape. The production values make _Blair Witch_ look professional. There's a really cheesy animated statue, but no other effects worth noting. This movie is bad, but not amusingly so. The players would do well not to mention it on their resumes.
+--------------------------------------------------------------------------------
+Sample 92
+Label: 1
+Word count: 105
+Text: Now my friends, films like "La Bête" (aka "The Beast" or "O Monstro")only can be done in the old continent :),in this film we see all: horses dirty sex, nymphomaniac kind off gorilla, non sense dialogs, etc, etc, etc... In the serious terms now,its an allegory, that men sometimes could be bestial, visceral and brutal,Walerian Borowczyk (the director) shows us the loss of innocence, sexual violence, rape and brutality. Its a astonishing cinematic experience, bizarre and full of grotesque scenes. For all fans of European shocking exploitation, i recommend this film.If you like this one i recommend: "Orloff Against the Invisible Man" and "Alterated States".
+--------------------------------------------------------------------------------
+Sample 93
+Label: 1
+Word count: 108
+Text: The opening scene of this movie is pretty incredible. I've seen a number of sci-fi movies with great special effects but my roommate and I looked at each other after the opening sequence and he said plainly, "sensory overload." The plot of the movie is pretty simple but the nice thing about this sci-fi movie is that it lets the audience figure out most of the technology for themselves instead of wasting time to "subtly" explain it. The creatures in this movie are also very interesting. You don't get a really good look at them until about two thirds of the way through. Overall, a very entertaining movie.
+--------------------------------------------------------------------------------
+Sample 94
+Label: 0
+Word count: 56
+Text: This is the worst movie ever made. The acting, the script, the location, everything! I would have given it a little chance if there were attractive women in the movie, but even they were bad. You would think that a movie with the word "beach" in it's title would have good-looking women in it. Wouldn't you?
+--------------------------------------------------------------------------------
+Sample 95
+Label: 1
+Word count: 50
+Text: This film is more about how children make sense of the world around them, and how they (and we) use myth to make sense of it all. I think it's been misperceived, everyone going in expecting a stalkfest won't enjoy it but if you want a deeper story, it's here.......
+--------------------------------------------------------------------------------
+Sample 96
+Label: 0
+Word count: 56
+Text: I saw it on video. Predictable, horrid acting, film flubs. What more can be said, this movie sucks. The actors are annoying to say the least. This was suppose to be a comedy, but there was only one funny moment, other than that is was painful to watch for me.  1 out of 10. PASS!
+--------------------------------------------------------------------------------
+Sample 97
+Label: 1
+Word count: 106
+Text: This is one of the very few movies out there which are very erotic without being pornographic, despite there being only a very rudimentary plot. There's not much live sound or dialogue; instead, the actors do voice-overs describing their experience, why they participated, etc.  It's a document.  It's mind-blowing.  I can totally understand why nobody else ever tried to do something like this. There already is something like this. This. :-)  NB: The producer doesn't have the rights to distribute a DVD version. I've also never seen it being sold anywhere; one may email Mr. Boerner and order a copy on VHS.
+--------------------------------------------------------------------------------
+Sample 98
+Label: 1
+Word count: 92
+Text: One word can describe this movie and that is weird. I recorded this movie one day because it was a Japanese animation and it was old so I thought it would be interesting. Well it was, the movie is about a young boy who travels the universe to get a metal body so he can seek revenge. On the way he meets very colorful characters and must ultimately decide if he wants the body or not. Very strange, if you are a fan of animation/science-fiction you might want to check this out.
+--------------------------------------------------------------------------------
+Sample 99
+Label: 0
+Word count: 77
+Text: There is a reason this went straight to video- the story is smarmy, Nick Cage plays Johnny in a sleazy way- sex in churches, and other scenes that border on tasteless(like the scene in the laundry room) taint this movie. Judge Reinhold as the cuckold is okay- but the movie itself with its themes of degradation and revenge are not well done. But it is a good film for trivia contests- because so few people saw it.
+--------------------------------------------------------------------------------
+Sample 100
+Label: 1
+Word count: 96
+Text: Helges best movie by far. Very funny, very surrealistic. If Bunuel made a movie starring Buster Keaton as Krusty the Clown it would look like this.  Brilliant performances by the cast we already know from other Schneider movies, especially Helmut Körschgen as the sidekick of 00Schneider. (Andreas Kunze who once more plays the wife in this one is a bit annoying though). And of course Helge himself as Nihil Baxter is absolutely incredible.  P.S: if this movie had a proper merchandising i would really like to buy a replica of that "Holz ist" painting.
+--------------------------------------------------------------------------------

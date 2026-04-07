@@ -1,0 +1,500 @@
+Sample 1
+Label: 1
+Word count: 39
+Text: I just saw the movie on tv. I really enjoyed it. I like a good mystery. and this one had me guessing up to the end. Sean Connery did a good job. I would recomend it to a friend.
+--------------------------------------------------------------------------------
+Sample 2
+Label: 0
+Word count: 43
+Text: pretty disappointing. i was expecting more of a horror/thriller -- but this seemed to be more of an episode of dawson's creek but with out the acting. there were some very impressive shots, though -- almost worth seeing. maybe future efforts will improve.
+--------------------------------------------------------------------------------
+Sample 3
+Label: 1
+Word count: 42
+Text: While the romance in this film is an important aspect, it is largely about the role of responsibility and duty in modern Indian. All of the major characters were well fleshed out, and had their own "inner life". I recommend this strongly
+--------------------------------------------------------------------------------
+Sample 4
+Label: 0
+Word count: 45
+Text: Shakespeare would have been outraged. The writers mutilated Shakespeare's amazing work. Ariel is the only believable acting performance. The African voodoo, secluded swamp, and "Gator Man" character make the movie a mockery of Shakespeare's true Tempest.   Don't waste your eye-sight on this movie.
+--------------------------------------------------------------------------------
+Sample 5
+Label: 1
+Word count: 42
+Text: I have to say I quite enjoyed Soldier. Russell was very good as this trained psychopath rediscovering his humanity. Very watchable and nowhere near as bad as I'd been led to believe. Yes it has problems but provides its share of entertainment.
+--------------------------------------------------------------------------------
+Sample 6
+Label: 1
+Word count: 41
+Text: Nice way to relax. I am packing my suitcase now so I can go and be with Caroline Munroe. Phony monsters and scenery make for 89 minutes of harmless fun. Something you can enjoy with your family and not be offended.
+--------------------------------------------------------------------------------
+Sample 7
+Label: 0
+Word count: 36
+Text: The movie is a happy lullaby, was made to make us sleep. And that´s what we do, as we dream about the top beautiful Natasha Henstridge. No screenplay, no deep characters, nothing special. So, let´s sleep.
+--------------------------------------------------------------------------------
+Sample 8
+Label: 1
+Word count: 38
+Text: I saw this film by chance on the small box. It has a fantastic and chilling scene about poisonous gas. A lot about fanatical patriotism. A bit of eroticism. I can't believe it's still waiting for 5 votes!!
+--------------------------------------------------------------------------------
+Sample 9
+Label: 0
+Word count: 44
+Text: Honestly, buying this movie was a waste of money. It's one of the most boring movies I have seen in my life. The only part I liked is the ending, but it's so slow that not even the fantastic ending can save this movie.
+--------------------------------------------------------------------------------
+Sample 10
+Label: 1
+Word count: 38
+Text: A brilliant film by the great John Waters. The characters are unforgettable. The acting, script, and camera-work only enhance the overall greatness of this film. Perversion as an art-form. A must see for all. Easily a perfect 10!
+--------------------------------------------------------------------------------
+Sample 11
+Label: 1
+Word count: 47
+Text: How can you resist watching a film with some swing? It's a delightful little film full of wonderful actors and a wonderful story line. Too bad they don't tour out here...I'd go see them. See it if for no other reason than to hear some good music.
+--------------------------------------------------------------------------------
+Sample 12
+Label: 0
+Word count: 33
+Text: This sequel to Problem Child is just as bad as the first one. It still teaches kids that it's O.K. to be bad. It's impossible for me to recommend this movie to anyone.
+--------------------------------------------------------------------------------
+Sample 13
+Label: 1
+Word count: 38
+Text: mature intelligent and highly charged melodrama unbelivebly filmed in China in 1948. wei wei's stunning performance as the catylast in a love triangle is simply stunning if you have the oppurunity to see this magnificent film take it
+--------------------------------------------------------------------------------
+Sample 14
+Label: 1
+Word count: 22
+Text: This movie will always be a Broadway and Movie classic, as long as there are still people who sing, dance, and act.
+--------------------------------------------------------------------------------
+Sample 15
+Label: 1
+Word count: 35
+Text: Giorgino can to some people look a bit long but it's one of rare real romantique adventure film. It could be compare to Docter Jivago with a bit of Sleepy Holow. You must see it.
+--------------------------------------------------------------------------------
+Sample 16
+Label: 0
+Word count: 47
+Text: Time line of the film: * Laugh * Laugh * Laugh * Smirk * Smirk * Yawn * Look at watch * walk out * remember funny parts at the beginning * smirk  Unfortunately, this movie has a good concept that it grinds to the ground.
+--------------------------------------------------------------------------------
+Sample 17
+Label: 0
+Word count: 46
+Text: Nemesis 3 is the worst movie what I have ever seen!!! I think that Nemesis 3 was only 30 minutes long. And that movie was so boo-oo-ring. When that movie ends and I saw word: NEMESIS 4... I thought I will...NOT watch that movie never again.
+--------------------------------------------------------------------------------
+Sample 18
+Label: 0
+Word count: 43
+Text: because you can put it on fast forward and watch the inane story, without having to listen to banal dialogue, and be finished in 10 minutes max. Come to think of it, even 10 minutes is too much to waste on Enid-Blyton-meets-struggling-wanna-be-artists. Vomit.
+--------------------------------------------------------------------------------
+Sample 19
+Label: 1
+Word count: 45
+Text: I enjoyed the movie and Kellie Martins performance immensely. It's the kind of movie I can show my family and has an example of a young woman placed in extraordinary circumstances finding the courage to do the right thing in the face of extreme danger.
+--------------------------------------------------------------------------------
+Sample 20
+Label: 0
+Word count: 33
+Text: This movie stinks. The stench resembles bad cowpies that sat in the sun too long. I can't believe that so many talented actors wasted their time making such a hopelessly awful film. Whew!
+--------------------------------------------------------------------------------
+Sample 21
+Label: 1
+Word count: 36
+Text: Funny, yes. A Freleng classic! To watch Sylvester turn green is always a treat, and it brings us back to the days when cartoon slapstick was brave and geared for the adult mind.  Loved it!
+--------------------------------------------------------------------------------
+Sample 22
+Label: 1
+Word count: 38
+Text: Surprisingly well made little movie. Short in length at about 90 minutes. For a low budget movie, very well made. Plot is slow to unravel. Cast is excellent especially Elizabeth Van Meter as the girlfriend with Tourette's Syndrome.
+--------------------------------------------------------------------------------
+Sample 23
+Label: 0
+Word count: 41
+Text: Really bad Italian horror movie, a sort of remake of Hammer infamous Frankenstein must be destroyed, this time with a lady Frankenstein taking over the business from father. A few nudes, several botched bits of dialogue, no tension at all. forgettable
+--------------------------------------------------------------------------------
+Sample 24
+Label: 1
+Word count: 44
+Text: It's really annoying when good movies like this one go unnoticed. But I'm glad I did not miss it.  They should re-release it with a lot more publicity. I do not think they did anything to promote it. Great work Paxton.
+--------------------------------------------------------------------------------
+Sample 25
+Label: 0
+Word count: 47
+Text: Shame on Julia Roberts and John Cusack. They are so talented and should not have had any part in this movie. The storyline was dumb and predictable. The jokes were not funny. The romance was not really romance. I was all too happy when this movie ended.
+--------------------------------------------------------------------------------
+Sample 26
+Label: 0
+Word count: 40
+Text: Ok,so.....guy gets bitten by a bat and then turns into a bat (well,sorta). I can only assume this made sense to SOMEONE at the time! Aren't bats supposed to fly, use radar, and eat bugs instead of attacking humans tho?
+--------------------------------------------------------------------------------
+Sample 27
+Label: 0
+Word count: 49
+Text: I haven't seen all Cage's works by any means but his acting in this one was truly awful. The other characters run the gamut of ability but, having most of the emotional scenes, Cage's scenes are just embarrassing to watch. He's certainly come a long ways in 12 years.
+--------------------------------------------------------------------------------
+Sample 28
+Label: 0
+Word count: 37
+Text: The bad out takes from "Reign of Fire" strung together, without any real story.  Dean Cain tries to be a real actor, and fails again.  In the end the dragons quit in disgust.  BARF!
+--------------------------------------------------------------------------------
+Sample 29
+Label: 1
+Word count: 45
+Text: This movie is wonderful. The writing, directing, acting all are fantastic. Very witty and clever script. Quality performances by actors, Ally Sheedy is strong and dynamic and delightfully quirky. Really original and heart-warmingly unpredicatable. The scenes are alive with fresh energy and really talented production.
+--------------------------------------------------------------------------------
+Sample 30
+Label: 1
+Word count: 47
+Text: If you're interested in learning about the 'real' side of spying, this movie is for you. Unlike 007 movies, this shows how things really go down in the world of espionage. Timothy Hutton and Sean Penn both give outstanding performances in this not-so-well-known film. Certainly worth watching.
+--------------------------------------------------------------------------------
+Sample 31
+Label: 1
+Word count: 38
+Text: A beautiful reflection of life's desperation and misdirection of finding love. Tragic, while at the same time, absurdly entertaining. Most people do not give this film a chance- ignorance- just a mere reflection in itself. Until next time...
+--------------------------------------------------------------------------------
+Sample 32
+Label: 1
+Word count: 24
+Text: This is the greatest movie ever. If you have written it off with out ever seeing it. You must give it a second try.
+--------------------------------------------------------------------------------
+Sample 33
+Label: 0
+Word count: 42
+Text: Muscular 'scientists', unpleasantly thin females in swimsuits, lots of beer drinking.. Yet it's too long to be a beer commercial. Oh, okay, there's some plot about a big shark-like monster that's killing people and stuff. But it's nothing you haven't seen before.
+--------------------------------------------------------------------------------
+Sample 34
+Label: 1
+Word count: 47
+Text: Interesting premise; interestingly worked out; the strongest feature of this film is the emotional tension of the astronaut who knows a truth, but is unable to convey it to others. Overlook the weaknesses and just enjoy the movie, but be prepared for a certain level of suspense.
+--------------------------------------------------------------------------------
+Sample 35
+Label: 0
+Word count: 40
+Text: Me and a couple of friends went to rent some movies one day, we picked one each and one of us picked Ironheart. Lets just say that from now on, we never let him pick a movie. This movie sucks
+--------------------------------------------------------------------------------
+Sample 36
+Label: 1
+Word count: 32
+Text: This unpretentious Horror film is probably destined to become a cult classic. Much much better than 90% of the Scream rip-offs out there! I even hope they come up with a sequel!
+--------------------------------------------------------------------------------
+Sample 37
+Label: 1
+Word count: 49
+Text: In a very short time, the movie showed a boy's odd life of taking pictures, showed his life and everyone else's get turned upside down as a result of his photographs, then brought everything back to normal in the end. One to see if you're looking for something interesting.
+--------------------------------------------------------------------------------
+Sample 38
+Label: 1
+Word count: 49
+Text: You may have serious doubts about watching the third sequel to The Stepford Wifes, but this is an absolute classic. Much scarier in premise than the first, and very entertaining. It only got a video release here in the UK, but should be released worldwide for everyone to enjoy.
+--------------------------------------------------------------------------------
+Sample 39
+Label: 0
+Word count: 42
+Text: HORRID!!  The special effects make the TV version of "Tremors" look real!  No one in the cast can act.  Kind of like the '62 "Voyage to the Bottom of the Sea" meets the cartoon ocean going electric eel cartoons.
+--------------------------------------------------------------------------------
+Sample 40
+Label: 0
+Word count: 41
+Text: Shame to see an interesting story diluted into standard "Vietnam made for TV" fare. Usually HBO movies are a substantial cut above TV. Bill Paxton was a pretty good choice for the lead role, but wasn't given much to work with.
+--------------------------------------------------------------------------------
+Sample 41
+Label: 0
+Word count: 42
+Text: This movie was amazingly bad. I don't think I've ever seen a movie where every attempt at humor failed as miserably. Let's see...the acting was pathetic, the "special effects" where horrible, the plot non-existant...that pretty much sums up this movie.
+--------------------------------------------------------------------------------
+Sample 42
+Label: 1
+Word count: 48
+Text: Although it has been remade several times, this movie is a classic if you are seeing it for the first time. Creative dialog, unique genius in the final scene, it deserves more credit than critics have given it. Highly recommended, one of the best comedies of recent years
+--------------------------------------------------------------------------------
+Sample 43
+Label: 1
+Word count: 38
+Text: This show is awesome! and I've seen it about 6 times.  Granted it may be lacking in educational content as some people like those sort of movies, but I think it's great, very funny and excellently written!
+--------------------------------------------------------------------------------
+Sample 44
+Label: 1
+Word count: 33
+Text: wonderful movie with good story great humour (some great one-liners) and a soundtrack to die for.  i've seen it 3 times so far.  the american audiences are going to love it.
+--------------------------------------------------------------------------------
+Sample 45
+Label: 1
+Word count: 44
+Text: I thought the movie was great. I thought Kristine DeBell was GREAT and was glad to see her move on into some more interesting roles. I even overlook the fact that the print I have wasn't quite put back together correctly. But, who cares?
+--------------------------------------------------------------------------------
+Sample 46
+Label: 1
+Word count: 17
+Text: This is the definitive movie version of Hamlet. Branagh cuts nothing, but there are no wasted moments.
+--------------------------------------------------------------------------------
+Sample 47
+Label: 1
+Word count: 37
+Text: It's been said before--Strangers on a Train is Hitchcock's best movie--and he's made so many good ones! Like other Hitchcock, Strangers on a Train requires your full attention to really appreciate it, but once you can...you will.
+--------------------------------------------------------------------------------
+Sample 48
+Label: 0
+Word count: 34
+Text: Although it's been hailed as a comedy-drama I found "Crooklyn" to be mostly depressing. It's hard to imagine how Spike Lee could look back affectionately on so much chaos, petty cruelty, irresponsibility and mean-spiritedness.
+--------------------------------------------------------------------------------
+Sample 49
+Label: 0
+Word count: 43
+Text: Its hard to make heads or tails of this film. Unless you're well oiled and in the mood to mock, don't view Santa Claus. It mixes Santa, Satan, Merlin, and moralizing in a most unappetizing way. It certainly is not for fretful children.
+--------------------------------------------------------------------------------
+Sample 50
+Label: 1
+Word count: 42
+Text: After watching this movie once, it quickly became one of my favorites. As different events happen in the movie, you change your mind about Prot, back and forth, until the end and even after. The movie is very thought-provoking and a must-watch!!
+--------------------------------------------------------------------------------
+Sample 51
+Label: 1
+Word count: 47
+Text: A fine ironic visual gag takes place in front of the spectacular backdrop of a twirling windmill. But who are those people who rush across screen at the end: customers? relatives? One of the earliest enigmas in cinematic history perhaps. Well worth a minute of your time.
+--------------------------------------------------------------------------------
+Sample 52
+Label: 0
+Word count: 47
+Text: Cheesy script, cheesy one-liners. Timothy Hutton's performance a "little" over the top. David Duchovny still seemed to be stuck in his Fox Mulder mode. No chemistry with his large-lipped female co-star.He needs Gillian Anderson to shine. He does not seem to have any talent of his own.
+--------------------------------------------------------------------------------
+Sample 53
+Label: 1
+Word count: 24
+Text: Very intelligent language usage of Ali, which you musn't miss! In one word: (eeh sentence...) Wicked, so keep it real and pass it on!
+--------------------------------------------------------------------------------
+Sample 54
+Label: 0
+Word count: 48
+Text: I have seen a lot of movies...this is the first one I ever walked out of the theater on. Don't even bother renting it. This is about as boring a soap opera as one can see...at least you don't have to pay to watch a soap opera, though.
+--------------------------------------------------------------------------------
+Sample 55
+Label: 1
+Word count: 38
+Text: This is one of the best movies I've seen. The acting is good, the plot is solid, and the whole movie is very believable, which adds a lot to the movie. I rate this at least a 9.
+--------------------------------------------------------------------------------
+Sample 56
+Label: 1
+Word count: 47
+Text: The movie is great and I like the story. I prefer this movie than other movie such The cell ( sick movie ) and Highlander ( silly movie ). I just tell the truth, I like a reality hehe and also a true story :)
+--------------------------------------------------------------------------------
+Sample 57
+Label: 1
+Word count: 36
+Text: The way this story played out and the interaction between the 2 lead characters may lead me to believe that if the X-Files continues without Mulder and Scully, these would be a pretty good replacement duo.
+--------------------------------------------------------------------------------
+Sample 58
+Label: 1
+Word count: 44
+Text: This is a movie that plays to everyone's emotions. We all want a second chance at things. Jim Morris got one, followed his heart and got a chance to live his dream. What a great message and what a great delivery by this movie.
+--------------------------------------------------------------------------------
+Sample 59
+Label: 1
+Word count: 43
+Text: This movie is just brilliant, SRK's acting is just amazing, the end is so incredibly sad, I cry every time I see this film, it's the kind you never get sick of, and can see again and again, an absolutely amazingly brilliant movie.
+--------------------------------------------------------------------------------
+Sample 60
+Label: 0
+Word count: 43
+Text: This movie is not a remake of She's all That ( 1999)?  Where is the renewal of the american movie? This was probably the worst movie I saw in the last 5 years. This and the last movies of Schwarzenegger.
+--------------------------------------------------------------------------------
+Sample 61
+Label: 0
+Word count: 39
+Text: I can't believe this movie has an average rating of 7.0! It is a fiendishly bad movie, and I saw it when it was fairly new, and I was in the age group that is supposed to like it!
+--------------------------------------------------------------------------------
+Sample 62
+Label: 1
+Word count: 36
+Text: Antonioni with Wim Wenders --some of the best of the best. story-character-visuals. Like most of their works, it is not really aimed at the children or the childish. Don't miss the genius contained in this one.
+--------------------------------------------------------------------------------
+Sample 63
+Label: 1
+Word count: 34
+Text: Allison Dean's performance is what stands out in my mind watching this film. She balances out the melancholy tone of the film with an iridescent energy. I would like to see more of her.
+--------------------------------------------------------------------------------
+Sample 64
+Label: 0
+Word count: 46
+Text: Bronson and Ireland, in their last film together, make a likable pair. He is more restrained than usual and she has become a winning actress. But as a thriller the film is totally worthless. Its premise is downright silly and its pace is much too rushed.
+--------------------------------------------------------------------------------
+Sample 65
+Label: 1
+Word count: 37
+Text: I don't care if some people voted this movie to be bad. If you want the Truth this is a Very Good Movie! It has every thing a movie should have. You really should Get this one.
+--------------------------------------------------------------------------------
+Sample 66
+Label: 1
+Word count: 46
+Text: Fun story of a regular guy with big dreams, this low budget film really hits home showing what it is like trying to become an acting success. Great performances by Lou Myers and Brian's neighbor, Alex. I giggled alot and even cried a little.
+--------------------------------------------------------------------------------
+Sample 67
+Label: 0
+Word count: 48
+Text: an oirish film not made for an irish audience. with fiorentino, baxendale and spacey each incapabable of a half decent oirish accents the powers-that-be had but one choice - force the irish actors to adopt equally bad oirish accents, reducing the whole thing to the lowest common denominator.
+--------------------------------------------------------------------------------
+Sample 68
+Label: 1
+Word count: 43
+Text: The theme is controversial and the depiction of the hypocritical and sexually starved india is excellent.Nothing more to this film.There is a lack of good dialogues(why was the movie in english??). There was lack of continuity and lack of passion/emotion in the acting.
+--------------------------------------------------------------------------------
+Sample 69
+Label: 0
+Word count: 45
+Text: The "film" consists of the audition tapes of the "Surrender girls" and some footage from previous films. It's not hot or even suitable for late night viewing on Cinemax. Only an adolescent boy could be interested in Auditions from Beyond. I recommend avoiding this one.
+--------------------------------------------------------------------------------
+Sample 70
+Label: 1
+Word count: 45
+Text: For real though, this game is where it's at. I'm 20 years old and that's basically where it started for me. 4-bit graphics was fabulous. I hope you all remember this game with as much adoration as I do. That Bluto is a real meany.
+--------------------------------------------------------------------------------
+Sample 71
+Label: 0
+Word count: 42
+Text: An annoying experience. Improvised dialogue, handheld cameras for no effect, directionless plot, contrived romance, ick! to the whole mess. Ron Silver was the only real actor. Gretta Sacchi was TERRIBLE! Henry Jaglom did better with Eating which suited his style much more.
+--------------------------------------------------------------------------------
+Sample 72
+Label: 1
+Word count: 48
+Text: Jack Webb finally gives something besides his usual wooden indian performance. He played the epitome of the jarhead, brainwashed, storm the beaches, semper fi, bonehead military idiot. The Corps before all else, even humanity. This great film showed the idiosy of boot camp to it's fullest. 4 stars.
+--------------------------------------------------------------------------------
+Sample 73
+Label: 0
+Word count: 34
+Text: i really wanted this to be good as i am from Liverpool where it is set but it truly awful. the acting from everyone involved is cringeworthy the script is terrible absolutly terrible. terrible
+--------------------------------------------------------------------------------
+Sample 74
+Label: 1
+Word count: 41
+Text: Well...I like this movie first of all because it's very well thought of... and well..because the um...director and others chose an extremely great actor to play Mike....and also my last reason because ( my opinion) Elijah Wood is so so hot!!!
+--------------------------------------------------------------------------------
+Sample 75
+Label: 0
+Word count: 46
+Text: People, please don't bother to watch this movie! This movie is bad! It's totally waste of time. I don't see any point here. It's a Stupid film with lousy plot and the acting is poor. I rather get myself beaten than watch this movie ever again.
+--------------------------------------------------------------------------------
+Sample 76
+Label: 0
+Word count: 37
+Text: publicity got me to the theatre  advice will take you away from this waist of time.  very bad everything.  do you really want to see a monkey talking with a technological device?  X
+--------------------------------------------------------------------------------
+Sample 77
+Label: 1
+Word count: 46
+Text: More exciting than the Wesley Snipes film, and with better characters, too. The last vampire hunter must save Los Angeles from a coven of vampires out to conquer the city, aided by a tabloid journalist. Lost of fun... and the names of the characters are great!
+--------------------------------------------------------------------------------
+Sample 78
+Label: 0
+Word count: 46
+Text: If this awful film moved at a snails pace it would at least be moving.Watching grass grow would be more interesting. It was painful to sit through and I only stayed in the theatre to see how all the cruel teens would die.Where is Brian DePalma????
+--------------------------------------------------------------------------------
+Sample 79
+Label: 0
+Word count: 32
+Text: I had to see this on the British Airways plane. It was terribly bad acting and a dumb story. Not even a kid would enjoy this. Something to switch off if possible.
+--------------------------------------------------------------------------------
+Sample 80
+Label: 0
+Word count: 46
+Text: "Ally McBeal" was a decent enough show, but it was very overrated. The characters become boring after a while and the jokes begin to fall short.  I think it chose an appropriate point in time to leave - it was starting to outstay its welcome.
+--------------------------------------------------------------------------------
+Sample 81
+Label: 0
+Word count: 17
+Text: no comment - stupid movie, acting average or worse... screenplay - no sense at all... SKIP IT!
+--------------------------------------------------------------------------------
+Sample 82
+Label: 0
+Word count: 49
+Text: Wow, this movie was horrible. As a Bills fan I was really looking forward to it, but this was bad. They should have left it on the shelf it was on for 4 years. I can't believe a guy like Jon Voight would sign on for something like this.
+--------------------------------------------------------------------------------
+Sample 83
+Label: 0
+Word count: 29
+Text: At one point in this waste of celluloid, Charles Dance as some sort of meant-to-be-funny, cyborg bad guy says "If I had an anus, I'd soil myself."  Quite.
+--------------------------------------------------------------------------------
+Sample 84
+Label: 1
+Word count: 47
+Text: This was a very funny movie, not Oscar-worthy, but definately the best dollar I've ever spent at Blockbuster! Rupert Penry Jones is a shining star, and very well might be the new Jude Law! So, if you're in the mood for a British Teen Flick- RENT IT!!
+--------------------------------------------------------------------------------
+Sample 85
+Label: 1
+Word count: 40
+Text: Beautiful coming of age romance about an English boy and French girl who run off, and grow up.  I saw this movie as a teenager and loved it. I saw it again this year and loved again.
+--------------------------------------------------------------------------------
+Sample 86
+Label: 0
+Word count: 47
+Text: Second Nature will not go down as one of the worst tv movies of 2003, but perhaps the worst of All Time. Formulaic, derivative, and every performance phoned in, from far, far away. Everyone associated with this project should have a hard time looking in the mirror.
+--------------------------------------------------------------------------------
+Sample 87
+Label: 0
+Word count: 49
+Text: This movie is BAD! It's basically an overdone copy of Michael Jackson's Thriller video, only worse! The special effects consist of lots of glow in the dark paint, freaky slapstick fastmoving camera shots and lots of growling. I think the dog was the best actor in the whole movie.
+--------------------------------------------------------------------------------
+Sample 88
+Label: 1
+Word count: 49
+Text: Mario's first foray into the world of 3-dimensions is incredible. Miyamoto's masterpiece was reason enough to buy a Nintendo 64 when it was released in 1996 and it still holds all of it's charm today. This game is an instant classic that set the standard for 3D adventure/platform games.
+--------------------------------------------------------------------------------
+Sample 89
+Label: 0
+Word count: 45
+Text: Mediocre at best. Slow, but probably more entertaining to the younger viewers. A young boy(Chris Miller) is haunted by an Indian spirit and horrid monster in the cellar of his father's new home. Also in the cast are Patrick Kilpatrick, Suzanne Savoy and Ford Rainey.
+--------------------------------------------------------------------------------
+Sample 90
+Label: 1
+Word count: 48
+Text: The movie is a riot - hilariously funny yet graphically violent. Just when you think you can't take any more it gives you more. Great thiller. The cast is excellent and the plot is very convincing. The past does indeed catch up with our hero, but right(?) prevails.
+--------------------------------------------------------------------------------
+Sample 91
+Label: 1
+Word count: 18
+Text: I don't know why I like this movie so well, but I never get tired of watching it.
+--------------------------------------------------------------------------------
+Sample 92
+Label: 1
+Word count: 29
+Text: This is a 'sleeper'. It defines Nicholas Cage. The plot is intricate and totally absorbing. The ending will blow you away.  See it whenever you have the opportunity.
+--------------------------------------------------------------------------------
+Sample 93
+Label: 1
+Word count: 42
+Text: Psycho criminal pure by Carl Schenkel, who is active in Hollywood, like Mrs Soutendijk. Goetz George and Hannes Jaenicke are stealing the spectator's last peace of snugness. They are too able, how can I get calm into a lift next time ?
+--------------------------------------------------------------------------------
+Sample 94
+Label: 1
+Word count: 16
+Text: a mesmerizing film that certainly keeps your attention... Ben Daniels is fascinating (and courageous) to watch.
+--------------------------------------------------------------------------------
+Sample 95
+Label: 0
+Word count: 41
+Text: Absolutely unwatchable, lowest quality film making. This film makes "Show Girls" look good. The acting is insufferable. The cinematography gives a bad name to amateurism. No wonder it went right to video and bypassed the theaters. This film wasn't released...it escaped.
+--------------------------------------------------------------------------------
+Sample 96
+Label: 1
+Word count: 34
+Text: "Foxes" is a great film. The four young actresses Jodie Foster, Cherie Currie, Marilyn Kagan and Kandice Stroh are wonderful. The song "On the radio" by Donna Summer is lovely. A great film. *****
+--------------------------------------------------------------------------------
+Sample 97
+Label: 1
+Word count: 46
+Text: A very comical but down to earth look into the behind the scene workings of an Australian bowling club. The way they deal with various problems such as takeovers, memberships and general running of the club, not to mention the car parking dilemma was well scripted.
+--------------------------------------------------------------------------------
+Sample 98
+Label: 1
+Word count: 44
+Text: I waited long to watch this movie. Also because I like Bruce Willis. The plot was quite different from what I had expected but still quite good. Its a good mix of emotions, humor and drama.  Left me thinking over and again :)
+--------------------------------------------------------------------------------
+Sample 99
+Label: 0
+Word count: 46
+Text: Take an utterly stupid story. Couple it with unprofessional performances, 2 bit graphics, add ultra-lame comedy bits, and you get this film. I thought the original was bad, but at least that story was simple and straightforward, though idiotic. May nobody produce another in this series.
+--------------------------------------------------------------------------------
+Sample 100
+Label: 1
+Word count: 48
+Text: The arch title doesn't fit this gentle romantic comedy. Donna Reed and Tom Drake don't have much chemistry -- but their characters aren't supposed to. Both are extremely likable and attractive.  The supporting cast is a dream -- with the exception of Sig Ruman's annoying faux Russian.
+--------------------------------------------------------------------------------
