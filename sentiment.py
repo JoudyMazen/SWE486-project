@@ -10,7 +10,7 @@ classifier = pipeline(
 )
 
 # Read up to max_samples text entries from an external .txt file
-def read_samples(filename, max_samples=3):
+def read_samples(filename, max_samples=100):
     samples = []
     with open(filename, "r", encoding="utf-8") as file:
         for line in file:
