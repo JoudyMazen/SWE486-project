@@ -24,9 +24,9 @@ def read_samples(filename, max_samples=3):
 
 # Load short, medium, and large input samples from external files
 datasets = {
-    "short": read_samples("short_inputs.txt", 3),
-    "medium": read_samples("medium_inputs.txt", 3),
-    "large": read_samples("large_inputs.txt", 3)
+    "short": read_samples("short_inputs.txt", 100),
+    "medium": read_samples("medium_inputs.txt", 100),
+    "large": read_samples("large_inputs.txt", 100)
 }
 
 # Loop through each input size category
@@ -43,7 +43,8 @@ for size, texts in datasets.items():
 
         # Record inference start and end time
         start_time = time.perf_counter()
-        result = classifier(text)
+       # Truncate input to model's maximum token limit (512 tokens)
+        result = classifier(text, truncation=True, max_length=512)
         end_time = time.perf_counter()
 
         # Capture CPU and memory usage during inference window
