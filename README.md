@@ -19,9 +19,11 @@ usage, and energy consumption across short, medium, and large text inputs.
 
 ## Repository Structure
 ├── sentiment.py         # Local deployment script
+├── prepare_inputs.py    # IMDB dataset preprocessing script
 ├── short_inputs.txt     # Short input samples (< 50 words)
-├── medium_inputs.txt    # Medium input samples (51–150 words)
-├── large_inputs.txt     # Large input samples (> 150 words)
+├── medium_inputs.txt    # Medium input samples (50–120 words)
+├── large_inputs.txt     # Large input samples (> 120 words)
+├── results.txt          # Output from local deployment run
 └── README.md
 
 ## How to Run
