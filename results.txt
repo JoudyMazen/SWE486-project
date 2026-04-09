@@ -1,0 +1,1809 @@
+
+===== SHORT INPUTS =====
+Sample 1 (39 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998527765274048}]
+Inference time: 0.0603 seconds
+CPU usage: 10.5 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 2 (43 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9630544781684875}]
+Inference time: 0.0234 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 3 (42 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998173117637634}]
+Inference time: 0.0238 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 4 (43 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9978470802307129}]
+Inference time: 0.0278 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 5 (42 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997168183326721}]
+Inference time: 0.0152 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 6 (41 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995015859603882}]
+Inference time: 0.0235 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 7 (36 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9887803792953491}]
+Inference time: 0.0161 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 8 (38 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9992565512657166}]
+Inference time: 0.0226 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 9 (44 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996771812438965}]
+Inference time: 0.0232 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 10 (38 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998130202293396}]
+Inference time: 0.0175 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 11 (47 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998282194137573}]
+Inference time: 0.0172 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 12 (33 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997064471244812}]
+Inference time: 0.0146 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 13 (38 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998555183410645}]
+Inference time: 0.0136 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 14 (22 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9969161748886108}]
+Inference time: 0.0146 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 15 (35 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9993947744369507}]
+Inference time: 0.0055 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 16 (46 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9691490530967712}]
+Inference time: 0.0054 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 17 (46 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.99978107213974}]
+Inference time: 0.0146 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 18 (43 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9965507984161377}]
+Inference time: 0.0076 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 19 (45 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998711347579956}]
+Inference time: 0.0151 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 20 (33 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997636675834656}]
+Inference time: 0.0144 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 21 (35 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999860405921936}]
+Inference time: 0.0079 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 22 (38 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9986369013786316}]
+Inference time: 0.0105 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 23 (41 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997952580451965}]
+Inference time: 0.0117 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 24 (41 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9609734416007996}]
+Inference time: 0.0146 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 25 (47 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996106028556824}]
+Inference time: 0.0152 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 26 (40 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9936444759368896}]
+Inference time: 0.0237 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 27 (49 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9982950091362}]
+Inference time: 0.0273 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 28 (34 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998070597648621}]
+Inference time: 0.0143 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 29 (45 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998891353607178}]
+Inference time: 0.0207 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 30 (47 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995392560958862}]
+Inference time: 0.0105 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 31 (38 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9987849593162537}]
+Inference time: 0.0096 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 32 (24 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995704293251038}]
+Inference time: 0.0149 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 33 (42 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9923256635665894}]
+Inference time: 0.0179 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 34 (47 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997280240058899}]
+Inference time: 0.0135 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 35 (40 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.7750328183174133}]
+Inference time: 0.0227 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 36 (32 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9988412261009216}]
+Inference time: 0.0224 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 37 (49 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9344256520271301}]
+Inference time: 0.0154 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 38 (49 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9994361996650696}]
+Inference time: 0.024 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 39 (39 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9992109537124634}]
+Inference time: 0.0135 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 40 (41 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9637447595596313}]
+Inference time: 0.0136 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 41 (40 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997863173484802}]
+Inference time: 0.0199 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 42 (48 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998459815979004}]
+Inference time: 0.0165 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 43 (37 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998393058776855}]
+Inference time: 0.0171 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 44 (31 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998898506164551}]
+Inference time: 0.0141 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 45 (44 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9919969439506531}]
+Inference time: 0.017 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 46 (17 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9978698492050171}]
+Inference time: 0.0261 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 47 (37 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997996687889099}]
+Inference time: 0.0261 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 48 (34 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9993481040000916}]
+Inference time: 0.0155 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 49 (43 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.8116053342819214}]
+Inference time: 0.0173 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 50 (42 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998207688331604}]
+Inference time: 0.0265 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 51 (47 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9989153146743774}]
+Inference time: 0.0167 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 52 (47 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997417330741882}]
+Inference time: 0.0313 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 53 (24 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9991599321365356}]
+Inference time: 0.0215 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 54 (48 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994893074035645}]
+Inference time: 0.0136 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 55 (38 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998786449432373}]
+Inference time: 0.0104 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 56 (45 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997158646583557}]
+Inference time: 0.0088 seconds
+CPU usage: 12.6 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 57 (36 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9920523166656494}]
+Inference time: 0.0073 seconds
+CPU usage: 12.5 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 58 (44 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997488856315613}]
+Inference time: 0.0087 seconds
+CPU usage: 10.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 59 (43 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998672008514404}]
+Inference time: 0.0077 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 60 (40 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997844099998474}]
+Inference time: 0.011 seconds
+CPU usage: 28.6 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 61 (39 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997326731681824}]
+Inference time: 0.0116 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 62 (36 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995569586753845}]
+Inference time: 0.0128 seconds
+CPU usage: 0.0 %
+Memory usage: 63.1 %
+--------------------------------------------------
+Sample 63 (34 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998145699501038}]
+Inference time: 0.0256 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 64 (46 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9992842078208923}]
+Inference time: 0.0156 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 65 (37 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9986588954925537}]
+Inference time: 0.0158 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 66 (44 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999634861946106}]
+Inference time: 0.0153 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 67 (48 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9977498650550842}]
+Inference time: 0.0316 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 68 (43 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9931133389472961}]
+Inference time: 0.0176 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 69 (45 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996681213378906}]
+Inference time: 0.0159 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 70 (45 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9989427924156189}]
+Inference time: 0.0318 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 71 (42 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999580442905426}]
+Inference time: 0.0157 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 72 (48 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9976297616958618}]
+Inference time: 0.0307 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 73 (34 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996782541275024}]
+Inference time: 0.0064 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 74 (41 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997784495353699}]
+Inference time: 0.0099 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 75 (46 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999822199344635}]
+Inference time: 0.0069 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 76 (33 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996914863586426}]
+Inference time: 0.0173 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 77 (46 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9733315110206604}]
+Inference time: 0.0076 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 78 (46 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.998845100402832}]
+Inference time: 0.0074 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 79 (32 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997883439064026}]
+Inference time: 0.0061 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 80 (45 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994266033172607}]
+Inference time: 0.009 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 81 (17 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997873902320862}]
+Inference time: 0.016 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 82 (49 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9991744160652161}]
+Inference time: 0.0078 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 83 (28 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997439980506897}]
+Inference time: 0.008 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 84 (47 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9993742108345032}]
+Inference time: 0.0095 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 85 (37 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998760223388672}]
+Inference time: 0.0074 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 86 (47 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997102618217468}]
+Inference time: 0.0075 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 87 (49 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997543692588806}]
+Inference time: 0.0084 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 88 (49 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998666048049927}]
+Inference time: 0.0091 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 89 (45 words)
+Result: [{'label': 'POSITIVE', 'score': 0.8324372172355652}]
+Inference time: 0.0095 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 90 (48 words)
+Result: [{'label': 'POSITIVE', 'score': 0.99980229139328}]
+Inference time: 0.009 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 91 (18 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9992427825927734}]
+Inference time: 0.0166 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 92 (28 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997135996818542}]
+Inference time: 0.0163 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 93 (42 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9987012147903442}]
+Inference time: 0.0096 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 94 (16 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999880313873291}]
+Inference time: 0.0067 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 95 (41 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9980131387710571}]
+Inference time: 0.0085 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 96 (34 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998903274536133}]
+Inference time: 0.0089 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 97 (46 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9927859902381897}]
+Inference time: 0.0094 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 98 (43 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998224377632141}]
+Inference time: 0.009 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 99 (46 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9922788143157959}]
+Inference time: 0.0096 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 100 (47 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997507929801941}]
+Inference time: 0.0102 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Average inference time for short inputs: 0.0154s
+
+===== MEDIUM INPUTS =====
+Sample 1 (95 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9962389469146729}]
+Inference time: 0.0272 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 2 (112 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9759119153022766}]
+Inference time: 0.0313 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 3 (112 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9989452958106995}]
+Inference time: 0.0328 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 4 (65 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9995923638343811}]
+Inference time: 0.0261 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 5 (111 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9957850575447083}]
+Inference time: 0.033 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 6 (72 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9926450252532959}]
+Inference time: 0.0197 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 7 (78 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9995633959770203}]
+Inference time: 0.0199 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 8 (89 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996253252029419}]
+Inference time: 0.0179 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 9 (78 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996046423912048}]
+Inference time: 0.0165 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 10 (116 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998260140419006}]
+Inference time: 0.0162 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 11 (110 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998157620429993}]
+Inference time: 0.016 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 12 (83 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9871820211410522}]
+Inference time: 0.0145 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 13 (79 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9926217794418335}]
+Inference time: 0.015 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 14 (97 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998382329940796}]
+Inference time: 0.0172 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 15 (78 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9168663024902344}]
+Inference time: 0.0135 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 16 (107 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9986536502838135}]
+Inference time: 0.0151 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 17 (107 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9987137317657471}]
+Inference time: 0.0086 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 18 (83 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998134970664978}]
+Inference time: 0.017 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 19 (111 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9986020922660828}]
+Inference time: 0.0197 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 20 (85 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996762275695801}]
+Inference time: 0.0168 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 21 (116 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998018145561218}]
+Inference time: 0.0127 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 22 (97 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9995079040527344}]
+Inference time: 0.0135 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 23 (103 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999799907207489}]
+Inference time: 0.0209 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 24 (120 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999402642250061}]
+Inference time: 0.0237 seconds
+CPU usage: 9.8 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 25 (109 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9941562414169312}]
+Inference time: 0.0224 seconds
+CPU usage: 9.1 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 26 (94 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9994219541549683}]
+Inference time: 0.019 seconds
+CPU usage: 21.7 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 27 (50 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.997285008430481}]
+Inference time: 0.0171 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 28 (118 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9993990659713745}]
+Inference time: 0.0114 seconds
+CPU usage: 0.0 %
+Memory usage: 63.0 %
+--------------------------------------------------
+Sample 29 (66 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9980801343917847}]
+Inference time: 0.0072 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 30 (50 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998146891593933}]
+Inference time: 0.0131 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 31 (115 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9993844032287598}]
+Inference time: 0.0164 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 32 (111 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996885061264038}]
+Inference time: 0.0165 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 33 (112 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997549653053284}]
+Inference time: 0.0162 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 34 (71 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9724771976470947}]
+Inference time: 0.0139 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 35 (80 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9983225464820862}]
+Inference time: 0.0154 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 36 (101 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9904941916465759}]
+Inference time: 0.0168 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 37 (53 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9964185953140259}]
+Inference time: 0.0063 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 38 (93 words)
+Result: [{'label': 'POSITIVE', 'score': 0.5671300888061523}]
+Inference time: 0.0173 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 39 (108 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998098015785217}]
+Inference time: 0.0104 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 40 (87 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9993578791618347}]
+Inference time: 0.0183 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 41 (99 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998683929443359}]
+Inference time: 0.0114 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 42 (84 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.991385817527771}]
+Inference time: 0.0123 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 43 (118 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9980742931365967}]
+Inference time: 0.0154 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 44 (115 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998308420181274}]
+Inference time: 0.0248 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 45 (80 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995662569999695}]
+Inference time: 0.0207 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 46 (74 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998472929000854}]
+Inference time: 0.0166 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 47 (81 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9994433522224426}]
+Inference time: 0.0098 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 48 (84 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9978283047676086}]
+Inference time: 0.009 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 49 (65 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996870756149292}]
+Inference time: 0.0072 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 50 (105 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9990658164024353}]
+Inference time: 0.0083 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 51 (113 words)
+Result: [{'label': 'POSITIVE', 'score': 0.8776947259902954}]
+Inference time: 0.0196 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 52 (114 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9572569131851196}]
+Inference time: 0.0124 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 53 (68 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998561143875122}]
+Inference time: 0.021 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 54 (104 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998008608818054}]
+Inference time: 0.0163 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 55 (54 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998406171798706}]
+Inference time: 0.0111 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 56 (91 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9981520771980286}]
+Inference time: 0.018 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 57 (97 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997897744178772}]
+Inference time: 0.0179 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 58 (117 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995912909507751}]
+Inference time: 0.0297 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 59 (110 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9979946613311768}]
+Inference time: 0.0313 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 60 (108 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9930962920188904}]
+Inference time: 0.0195 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 61 (62 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998267292976379}]
+Inference time: 0.0121 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 62 (80 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9990262985229492}]
+Inference time: 0.0253 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 63 (105 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9851745963096619}]
+Inference time: 0.0293 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 64 (74 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998087286949158}]
+Inference time: 0.0187 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 65 (87 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996680021286011}]
+Inference time: 0.0108 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 66 (115 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9971427321434021}]
+Inference time: 0.02 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 67 (112 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9968069791793823}]
+Inference time: 0.0092 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 68 (103 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9992048144340515}]
+Inference time: 0.0118 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 69 (84 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9989233613014221}]
+Inference time: 0.0198 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 70 (72 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999805748462677}]
+Inference time: 0.01 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 71 (115 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9767683744430542}]
+Inference time: 0.0162 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 72 (62 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9992122650146484}]
+Inference time: 0.0198 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 73 (106 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999646782875061}]
+Inference time: 0.0135 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 74 (114 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.90678870677948}]
+Inference time: 0.0238 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 75 (108 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994090795516968}]
+Inference time: 0.0238 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 76 (51 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9987414479255676}]
+Inference time: 0.0107 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 77 (71 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998255372047424}]
+Inference time: 0.018 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 78 (55 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9766440987586975}]
+Inference time: 0.0144 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 79 (109 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.998302698135376}]
+Inference time: 0.0103 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 80 (115 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998584985733032}]
+Inference time: 0.0093 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 81 (105 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998061060905457}]
+Inference time: 0.0081 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 82 (54 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9976785778999329}]
+Inference time: 0.0071 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 83 (116 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9995575547218323}]
+Inference time: 0.0208 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 84 (88 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999771773815155}]
+Inference time: 0.0122 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 85 (81 words)
+Result: [{'label': 'POSITIVE', 'score': 0.99964439868927}]
+Inference time: 0.0207 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 86 (85 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999568521976471}]
+Inference time: 0.0277 seconds
+CPU usage: 0.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 87 (100 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9980485439300537}]
+Inference time: 0.0272 seconds
+CPU usage: 12.0 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 88 (107 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9986580610275269}]
+Inference time: 0.0158 seconds
+CPU usage: 61.1 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 89 (112 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997269511222839}]
+Inference time: 0.0282 seconds
+CPU usage: 38.5 %
+Memory usage: 63.3 %
+--------------------------------------------------
+Sample 90 (98 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9993802309036255}]
+Inference time: 0.0205 seconds
+CPU usage: 20.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 91 (88 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994657635688782}]
+Inference time: 0.0167 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 92 (105 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9953398704528809}]
+Inference time: 0.0178 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 93 (108 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995167255401611}]
+Inference time: 0.0161 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 94 (56 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9998002648353577}]
+Inference time: 0.0065 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 95 (50 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9941543936729431}]
+Inference time: 0.0147 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 96 (55 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996445178985596}]
+Inference time: 0.0059 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 97 (102 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9934995174407959}]
+Inference time: 0.0092 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 98 (92 words)
+Result: [{'label': 'POSITIVE', 'score': 0.8503145575523376}]
+Inference time: 0.0072 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 99 (77 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9755941033363342}]
+Inference time: 0.0085 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 100 (94 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9994856119155884}]
+Inference time: 0.019 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Average inference time for medium inputs: 0.0167s
+
+===== LARGE INPUTS =====
+Sample 1 (227 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9970081448554993}]
+Inference time: 0.0297 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 2 (275 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9988241791725159}]
+Inference time: 0.0309 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 3 (182 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9991539716720581}]
+Inference time: 0.0226 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 4 (630 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999563992023468}]
+Inference time: 0.0386 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 5 (319 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9993971586227417}]
+Inference time: 0.0348 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 6 (194 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.999744713306427}]
+Inference time: 0.02 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 7 (747 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9918168187141418}]
+Inference time: 0.0295 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 8 (390 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9972885847091675}]
+Inference time: 0.029 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 9 (126 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9981557726860046}]
+Inference time: 0.01 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 10 (310 words)
+Result: [{'label': 'POSITIVE', 'score': 0.8881636261940002}]
+Inference time: 0.0327 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 11 (170 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997808337211609}]
+Inference time: 0.0225 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 12 (287 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9992107152938843}]
+Inference time: 0.0326 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 13 (130 words)
+Result: [{'label': 'POSITIVE', 'score': 0.8162233233451843}]
+Inference time: 0.0115 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 14 (212 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997499585151672}]
+Inference time: 0.0254 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 15 (579 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997150301933289}]
+Inference time: 0.0313 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 16 (161 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9967694282531738}]
+Inference time: 0.0225 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 17 (137 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9988780617713928}]
+Inference time: 0.0204 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 18 (181 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9897913336753845}]
+Inference time: 0.0222 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 19 (660 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.961943507194519}]
+Inference time: 0.0312 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 20 (176 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998024106025696}]
+Inference time: 0.0131 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 21 (361 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9955025315284729}]
+Inference time: 0.0378 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 22 (164 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9990411400794983}]
+Inference time: 0.0207 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 23 (259 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9197161793708801}]
+Inference time: 0.0288 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 24 (200 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998171925544739}]
+Inference time: 0.0241 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 25 (127 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998699426651001}]
+Inference time: 0.0097 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 26 (145 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994471669197083}]
+Inference time: 0.0189 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 27 (279 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996910095214844}]
+Inference time: 0.0202 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 28 (176 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9987977743148804}]
+Inference time: 0.0206 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 29 (129 words)
+Result: [{'label': 'POSITIVE', 'score': 0.8038238286972046}]
+Inference time: 0.018 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 30 (759 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9981556534767151}]
+Inference time: 0.0318 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 31 (147 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994795918464661}]
+Inference time: 0.0188 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 32 (245 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.75214022397995}]
+Inference time: 0.0276 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 33 (209 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996967315673828}]
+Inference time: 0.0236 seconds
+CPU usage: 0.0 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 34 (286 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997835755348206}]
+Inference time: 0.0193 seconds
+CPU usage: 12.3 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 35 (210 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9786140322685242}]
+Inference time: 0.0228 seconds
+CPU usage: 17.4 %
+Memory usage: 64.0 %
+--------------------------------------------------
+Sample 36 (260 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9967954754829407}]
+Inference time: 0.0288 seconds
+CPU usage: 20.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 37 (298 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9969969987869263}]
+Inference time: 0.0304 seconds
+CPU usage: 6.7 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 38 (922 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9836944937705994}]
+Inference time: 0.0323 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 39 (150 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9915681481361389}]
+Inference time: 0.0207 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 40 (623 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9801430106163025}]
+Inference time: 0.0299 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 41 (311 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9886382222175598}]
+Inference time: 0.0301 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 42 (262 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997950196266174}]
+Inference time: 0.029 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 43 (142 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996411800384521}]
+Inference time: 0.0114 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 44 (381 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9995124340057373}]
+Inference time: 0.0384 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 45 (223 words)
+Result: [{'label': 'POSITIVE', 'score': 0.996242880821228}]
+Inference time: 0.0231 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 46 (212 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997416138648987}]
+Inference time: 0.0261 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 47 (181 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9944338202476501}]
+Inference time: 0.026 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 48 (128 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997393488883972}]
+Inference time: 0.0206 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 49 (122 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9962182641029358}]
+Inference time: 0.0117 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 50 (901 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9675959348678589}]
+Inference time: 0.0309 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 51 (127 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9923436045646667}]
+Inference time: 0.0117 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 52 (989 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.8924734592437744}]
+Inference time: 0.0299 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 53 (496 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9886015057563782}]
+Inference time: 0.0295 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 54 (458 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9988406300544739}]
+Inference time: 0.0293 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 55 (133 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997500777244568}]
+Inference time: 0.0108 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 56 (215 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9734390377998352}]
+Inference time: 0.0234 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 57 (246 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9911981225013733}]
+Inference time: 0.0277 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 58 (263 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9990999698638916}]
+Inference time: 0.0295 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 59 (431 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9973340034484863}]
+Inference time: 0.0295 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 60 (170 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995953440666199}]
+Inference time: 0.0235 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 61 (171 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9967182278633118}]
+Inference time: 0.0229 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 62 (366 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.987597644329071}]
+Inference time: 0.0357 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 63 (381 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997825026512146}]
+Inference time: 0.0395 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 64 (735 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9973363280296326}]
+Inference time: 0.0313 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 65 (259 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997510313987732}]
+Inference time: 0.0301 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 66 (177 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9997609257698059}]
+Inference time: 0.0229 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 67 (209 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9961162805557251}]
+Inference time: 0.0165 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 68 (168 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9906604886054993}]
+Inference time: 0.021 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 69 (148 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9911559820175171}]
+Inference time: 0.0192 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 70 (300 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9912146329879761}]
+Inference time: 0.0314 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 71 (340 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9996135830879211}]
+Inference time: 0.0327 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 72 (254 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9969093203544617}]
+Inference time: 0.0193 seconds
+CPU usage: 0.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 73 (150 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9993284940719604}]
+Inference time: 0.0212 seconds
+CPU usage: 13.8 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 74 (200 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9986103773117065}]
+Inference time: 0.023 seconds
+CPU usage: 12.0 %
+Memory usage: 64.4 %
+--------------------------------------------------
+Sample 75 (359 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9979057312011719}]
+Inference time: 0.0369 seconds
+CPU usage: 0.0 %
+Memory usage: 64.1 %
+--------------------------------------------------
+Sample 76 (142 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9995995163917542}]
+Inference time: 0.0211 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 77 (187 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9930873513221741}]
+Inference time: 0.0219 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 78 (254 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9954657554626465}]
+Inference time: 0.0284 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 79 (128 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9990180730819702}]
+Inference time: 0.0108 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 80 (282 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9981929659843445}]
+Inference time: 0.0214 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 81 (277 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9996616840362549}]
+Inference time: 0.03 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 82 (253 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9993587136268616}]
+Inference time: 0.0279 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 83 (236 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.7739617228507996}]
+Inference time: 0.0328 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 84 (382 words)
+Result: [{'label': 'POSITIVE', 'score': 0.7807567715644836}]
+Inference time: 0.0411 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 85 (133 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999301552772522}]
+Inference time: 0.0189 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 86 (334 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9941244721412659}]
+Inference time: 0.0327 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 87 (180 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9998550415039062}]
+Inference time: 0.0217 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 88 (435 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9987757802009583}]
+Inference time: 0.0299 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 89 (124 words)
+Result: [{'label': 'POSITIVE', 'score': 0.999834418296814}]
+Inference time: 0.0211 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 90 (189 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9928941130638123}]
+Inference time: 0.014 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 91 (224 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9997664093971252}]
+Inference time: 0.0255 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 92 (130 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9986554384231567}]
+Inference time: 0.0187 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 93 (277 words)
+Result: [{'label': 'POSITIVE', 'score': 0.9992006421089172}]
+Inference time: 0.0212 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 94 (144 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9993133544921875}]
+Inference time: 0.0215 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 95 (128 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9994851350784302}]
+Inference time: 0.0101 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 96 (452 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.998877227306366}]
+Inference time: 0.0299 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 97 (317 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9850097298622131}]
+Inference time: 0.0303 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 98 (206 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9943384528160095}]
+Inference time: 0.0146 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 99 (164 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.997665286064148}]
+Inference time: 0.0211 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Sample 100 (133 words)
+Result: [{'label': 'NEGATIVE', 'score': 0.9989815354347229}]
+Inference time: 0.0106 seconds
+CPU usage: 0.0 %
+Memory usage: 64.2 %
+--------------------------------------------------
+Average inference time for large inputs: 0.0247s
